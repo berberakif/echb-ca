@@ -1,66 +1,70 @@
 import streamlit as st
 import pandas as pd
 import json
+import altair as alt
 from pathlib import Path
 
 # Set up the Streamlit app
-st.set_page_config(page_title='Feedback Descriptive Statistics', page_icon=':bar_chart:')
+st.set_page_config(page_title='Participant Distribution Dashboard', page_icon=':globe_with_meridians:')
 
-# Function to load the cleaned JSON data
+# Function to load JSON data
 @st.cache_data
-def load_cleaned_data():
-    DATA_FILENAME = Path(__file__).parent / 'Cleaned_Responses.json'
+def load_json_data(filename):
+    DATA_FILENAME = Path(__file__).parent / 'data' / filename
     with open(DATA_FILENAME, 'r') as f:
-        data = [json.loads(line) for line in f]
-    return pd.DataFrame(data)
+        return json.load(f)
 
 # Load the data
-df = load_cleaned_data()
+data = load_json_data('final_combined_country_data.json')
+
+# Convert the JSON data into DataFrames for easier handling
+df_nationality = pd.DataFrame(list(data['nationality'].items()), columns=['Country', 'Count'])
+df_residence = pd.DataFrame(list(data['residence'].items()), columns=['Country', 'Count'])
+df_federation = pd.DataFrame(list(data['related_federation'].items()), columns=['Country', 'Count'])
 
 # App title
-st.title(':bar_chart: Feedback Descriptive Statistics')
+st.title(':globe_with_meridians: Participant Distribution Dashboard')
 
-# Sidebar for filtering options
-st.sidebar.header("Filter Options")
+st.write("""
+This dashboard shows the distribution of participants by their nationality, country of residence, 
+and related federation. Use the filters to explore the data.
+""")
 
-# Filter by Role
-roles = df['Role'].unique()
-selected_roles = st.sidebar.multiselect("Select Roles:", roles, default=roles)
+# Sidebar for selecting the data to view
+st.sidebar.header("Select Data to View")
+view_option = st.sidebar.selectbox(
+    "Choose the data to display:",
+    ("Nationality", "Residence", "Related Federation")
+)
 
-# Filter by Time Zone
-time_zones = df['Which timezone do you live at?'].unique()
-selected_time_zones = st.sidebar.multiselect("Select Time Zones:", time_zones, default=time_zones)
-
-# Apply filters
-filtered_df = df[df['Role'].isin(selected_roles) & df['Which timezone do you live at?'].isin(selected_time_zones)]
-
-# Display filtered data
-st.subheader('Filtered Data')
-st.write(f"Number of responses: {len(filtered_df)}")
-st.dataframe(filtered_df)
-
-# Descriptive statistics
-st.subheader('Descriptive Statistics')
-
-# Numeric columns for descriptive stats
-numeric_cols = filtered_df.select_dtypes(include=['float64', 'int64']).columns
-selected_stat_cols = st.multiselect("Select Columns for Statistics:", numeric_cols, default=numeric_cols)
-
-# Calculate and display descriptive stats
-if selected_stat_cols:
-    st.write(filtered_df[selected_stat_cols].describe())
+# Select the appropriate DataFrame based on the user's choice
+if view_option == "Nationality":
+    df = df_nationality
+elif view_option == "Residence":
+    df = df_residence
 else:
-    st.write("Please select at least one numeric column to view descriptive statistics.")
+    df = df_federation
 
-# Visualize distribution of a selected column
-st.subheader('Distribution of Selected Column')
-selected_dist_col = st.selectbox("Select a Column for Distribution:", numeric_cols)
+# Display the data and visualization
+st.header(f'{view_option} Distribution')
 
-if selected_dist_col:
-    st.bar_chart(filtered_df[selected_dist_col].value_counts())
+st.subheader('Data Table')
+st.dataframe(df)
+
+st.subheader('Bar Chart')
+chart = alt.Chart(df).mark_bar().encode(
+    x=alt.X('Country', sort='-y'),
+    y='Count',
+    tooltip=['Country', 'Count']
+).properties(
+    width=700,
+    height=400
+)
+st.altair_chart(chart, use_container_width=True)
 
 st.markdown("""
 ## Conclusion
 
-This section provides a quick overview of the data, allowing you to filter and explore descriptive statistics of participant feedback.
+This dashboard provides an overview of the distribution of participants by different categories. 
+Use the insights to understand the geographic diversity and federation affiliations of participants.
 """)
