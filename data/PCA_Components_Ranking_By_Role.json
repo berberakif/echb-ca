@@ -1,0 +1,83 @@
+{
+    "Student (4th Gen)": [
+        {
+            "PCA_Component": "PC3 - Technical and Operational Satisfaction",
+            "Average_Score": 4.420289855072463,
+            "Participant_Count": 92
+        },
+        {
+            "PCA_Component": "PC5 - Technical Accessibility and Usability",
+            "Average_Score": 4.396739130434782,
+            "Participant_Count": 92
+        },
+        {
+            "PCA_Component": "PC2 - Effectiveness and Organization of Practical Components",
+            "Average_Score": 4.342934094249782,
+            "Participant_Count": 92
+        },
+        {
+            "PCA_Component": "PC4 - Financial and Administrative Satisfaction",
+            "Average_Score": 4.271739130434782,
+            "Participant_Count": 92
+        },
+        {
+            "PCA_Component": "PC1 - Assessment of Knowledge and Academic Rigor",
+            "Average_Score": 4.092391304347826,
+            "Participant_Count": 92
+        }
+    ],
+    "Alumni": [
+        {
+            "PCA_Component": "PC1 - Assessment of Knowledge and Academic Rigor",
+            "Average_Score": 4.5,
+            "Participant_Count": 6
+        },
+        {
+            "PCA_Component": "PC5 - Technical Accessibility and Usability",
+            "Average_Score": 4.416666666666667,
+            "Participant_Count": 6
+        },
+        {
+            "PCA_Component": "PC3 - Technical and Operational Satisfaction",
+            "Average_Score": 4.333333333333333,
+            "Participant_Count": 6
+        },
+        {
+            "PCA_Component": "PC2 - Effectiveness and Organization of Practical Components",
+            "Average_Score": 4.1529165611200005,
+            "Participant_Count": 6
+        },
+        {
+            "PCA_Component": "PC4 - Financial and Administrative Satisfaction",
+            "Average_Score": 4.0,
+            "Participant_Count": 6
+        }
+    ],
+    "Ambassador": [
+        {
+            "PCA_Component": "PC5 - Technical Accessibility and Usability",
+            "Average_Score": 4.4375,
+            "Participant_Count": 8
+        },
+        {
+            "PCA_Component": "PC3 - Technical and Operational Satisfaction",
+            "Average_Score": 4.375,
+            "Participant_Count": 8
+        },
+        {
+            "PCA_Component": "PC4 - Financial and Administrative Satisfaction",
+            "Average_Score": 4.3125,
+            "Participant_Count": 8
+        },
+        {
+            "PCA_Component": "PC2 - Effectiveness and Organization of Practical Components",
+            "Average_Score": 4.1484371042,
+            "Participant_Count": 8
+        },
+        {
+            "PCA_Component": "PC1 - Assessment of Knowledge and Academic Rigor",
+            "Average_Score": 3.75,
+            "Participant_Count": 8
+        }
+    ]
+}
