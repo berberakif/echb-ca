@@ -1,0 +1,32 @@
+{
+    "Did you find the certification ceremony satisfactory? ": {
+        "count": 106.0,
+        "mean": 3.924050632911392,
+        "std": 1.1021377659866232,
+        "min": 1.0,
+        "25%": 3.9240506329113924,
+        "50%": 4.0,
+        "75%": 5.0,
+        "max": 5.0
+    },
+    "How effective were the practice week presentations?": {
+        "count": 106.0,
+        "mean": 4.276315789473684,
+        "std": 0.8684818084617966,
+        "min": 1.0,
+        "25%": 4.0,
+        "50%": 4.276315789473684,
+        "75%": 5.0,
+        "max": 5.0
+    },
+    "How much knowledge did you gain from the EHCB Coaches Academy's  modules?": {
+        "count": 106.0,
+        "mean": 4.367924528301887,
+        "std": 0.8654805623314628,
+        "min": 1.0,
+        "25%": 4.0,
+        "50%": 5.0,
+        "75%": 5.0,
+        "max": 5.0
+    }
+}

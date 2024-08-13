@@ -1,17 +1,17 @@
 import streamlit as st
 
 def recommendations():
-    st.header('Recommendations')
+    st.header('Possible Recommendations')
 
-    st.subheader('Improve Scheduling Flexibility')
+    st.subheader('Improve Scheduling and Flexibility')
     st.write("""
     Consider offering more sessions at different times to accommodate participants from various time zones, especially those 
-    in North America and Asia.
+    in North America and Asia with a support of an easier monitoring tool/calendar.
     """)
 
     st.subheader('Enhance Practical Components')
     st.write("""
-    Expand on practical content within the curriculum, particularly during practice weeks. More hands-on sessions and 
+    Expand on practical content within the curriculum, particularly during practice weeks. More hands-on sessions and/or 
     real-world applications could further enhance participant satisfaction.
     """)
 

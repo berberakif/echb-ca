@@ -1,0 +1,103 @@
+{
+    "Student (4th Gen)": [
+        {
+            "Practice_Week": "Partizan",
+            "Average_Score": 4.74345710166,
+            "Participant_Count": 6
+        },
+        {
+            "Practice_Week": "Bayern Munich",
+            "Average_Score": 4.64254385965,
+            "Participant_Count": 6
+        },
+        {
+            "Practice_Week": "Fenerbah\u00e7e",
+            "Average_Score": 4.625,
+            "Participant_Count": 8
+        },
+        {
+            "Practice_Week": "Spanish NT",
+            "Average_Score": 4.6000000000000005,
+            "Participant_Count": 3
+        },
+        {
+            "Practice_Week": "Real Madrid",
+            "Average_Score": 4.500000000000001,
+            "Participant_Count": 6
+        },
+        {
+            "Practice_Week": "Monaco",
+            "Average_Score": 4.5,
+            "Participant_Count": 6
+        },
+        {
+            "Practice_Week": "Red Star",
+            "Average_Score": 4.353260875547693,
+            "Participant_Count": 39
+        },
+        {
+            "Practice_Week": "Alba",
+            "Average_Score": 4.326701026916,
+            "Participant_Count": 5
+        },
+        {
+            "Practice_Week": "Zenit",
+            "Average_Score": 4.132148521992,
+            "Participant_Count": 5
+        },
+        {
+            "Practice_Week": "\u017dalgiris",
+            "Average_Score": 4.119999999999999,
+            "Participant_Count": 5
+        },
+        {
+            "Practice_Week": "Efes",
+            "Average_Score": 3.9000000000000004,
+            "Participant_Count": 4
+        },
+        {
+            "Practice_Week": "Panathinaikos",
+            "Average_Score": 3.8800000000000003,
+            "Participant_Count": 5
+        },
+        {
+            "Practice_Week": "Olympiakos",
+            "Average_Score": 3.4333333333333336,
+            "Participant_Count": 6
+        }
+    ],
+    "Alumni": [
+        {
+            "Practice_Week": "Bayern Munich",
+            "Average_Score": 4.8,
+            "Participant_Count": 1
+        },
+        {
+            "Practice_Week": "Red Star",
+            "Average_Score": 4.12937484168,
+            "Participant_Count": 4
+        },
+        {
+            "Practice_Week": "Efes",
+            "Average_Score": 3.6,
+            "Participant_Count": 1
+        }
+    ],
+    "Ambassador": [
+        {
+            "Practice_Week": "Real Madrid",
+            "Average_Score": 5.0,
+            "Participant_Count": 1
+        },
+        {
+            "Practice_Week": "Bayern Munich",
+            "Average_Score": 4.8,
+            "Participant_Count": 1
+        },
+        {
+            "Practice_Week": "Red Star",
+            "Average_Score": 3.897916138933333,
+            "Participant_Count": 6
+        }
+    ]
+}

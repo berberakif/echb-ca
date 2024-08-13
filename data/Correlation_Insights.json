@@ -1,0 +1,26 @@
+{
+    "Top_Positive_Correlations": {
+        "Birth Year & Birth Year": 1.0,
+        "Did the exam adequately assess your knowledge in Offensive Team Tactic? & Did the exam adequately assess your knowledge in Defensive Team Tactic?": 0.9432678221705015,
+        "Did the exam adequately assess your knowledge in Offensive Team Tactic? & Did the exam adequately assess your knowledge in Individual and Group Tactics?": 0.9383439869369791,
+        "Did the exam adequately assess your knowledge in Individual and Group Tactics? & Did the exam adequately assess your knowledge in Defensive Team Tactic?": 0.9216528631382388,
+        "Did the exam adequately assess your knowledge in Planning & Programming and S&C? & Did the exam adequately assess your knowledge in Theory of Sports Training and S&C? ": 0.9058576505106212,
+        "Did the exam adequately assess your knowledge in Individual and Group Tactics? & Did the exam adequately assess your knowledge in Basketball Technique?": 0.9053604039141357,
+        "Did the exam adequately assess your knowledge in Sociology & Psychology? & Did the exam adequately assess your knowledge in Planning & Programming and S&C?": 0.8923067275374265,
+        "Did the exam adequately assess your knowledge in Defensive Team Tactic? & Did the exam adequately assess your knowledge in Basketball Technique?": 0.8895650394843049,
+        "Did the exam adequately assess your knowledge in Selection and Training of Young Players? & Did the exam adequately assess your knowledge in Defensive Team Tactic?": 0.8845012145066375,
+        "Did the exam adequately assess your knowledge in Offensive Team Tactic? & Did the exam adequately assess your knowledge in Selection and Training of Young Players?": 0.8806435972927223
+    },
+    "Top_Negative_Correlations": {
+        "How well-organized was the practice week with EuroLeague teams? & Birth Year": -0.10299779379088866,
+        "Were you able to attend most of the lessons as per your personal schedule? & Birth Year": -0.09489993691939093,
+        "How effective were the lessons on Selection and Training of Young Players? & Birth Year": -0.09354276982250785,
+        "How beneficial was the practice week for your coaching development? & How useful did you find the Basketball Academic Lectures?": -0.08642169587257091,
+        "How user-friendly was Zoom? & Birth Year": -0.08459648550900793,
+        "Birth Year & How effective were the lessons on Basketball History and Factors? ": -0.08354400233733579,
+        "How effective were the panels and masterclasses at the Congress? & Birth Year": -0.0833291888522723,
+        "Birth Year & How effective were the lessons on Biomedicine Subjects?": -0.08149761274872858,
+        "Birth Year & How beneficial was the practice week for your coaching development?": -0.08103762375614243,
+        "Birth Year & How well-structured was the Congress?": -0.08087476158658191
+    }
+}

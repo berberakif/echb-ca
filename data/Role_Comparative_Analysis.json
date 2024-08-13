@@ -1,0 +1,322 @@
+{
+    "Birth Year": {
+        "Alumni": 1981.8333333333333,
+        "Ambassador": 1984.625,
+        "Student (4th Gen)": 1987.5217391304348
+    },
+    "How satisfied were you with the clarity of the application instructions? ": {
+        "Alumni": 4.5,
+        "Ambassador": 4.625,
+        "Student (4th Gen)": 4.478260869565218
+    },
+    "How smooth was the registration process?": {
+        "Alumni": 4.5,
+        "Ambassador": 4.875,
+        "Student (4th Gen)": 4.554347826086956
+    },
+    "How helpful was the initial contact with the academy\u2019s staff? ": {
+        "Alumni": 5.0,
+        "Ambassador": 4.75,
+        "Student (4th Gen)": 4.706521739130435
+    },
+    "Were the payment options and processes clear and convenient?": {
+        "Alumni": 4.333333333333333,
+        "Ambassador": 4.75,
+        "Student (4th Gen)": 4.478260869565218
+    },
+    "Were you satisfied with the price of the Academy?": {
+        "Alumni": 3.6666666666666665,
+        "Ambassador": 3.875,
+        "Student (4th Gen)": 4.065217391304348
+    },
+    "How relevant was the General Academic Lectures to your coaching needs?": {
+        "Alumni": 3.8333333333333335,
+        "Ambassador": 3.375,
+        "Student (4th Gen)": 4.032608695652174
+    },
+    "How useful did you find the Basketball Academic Lectures?": {
+        "Alumni": 4.5,
+        "Ambassador": 4.125,
+        "Student (4th Gen)": 4.423913043478261
+    },
+    "How beneficial were the new modules introduced this year (Scouting, S&C, Officiating, Medical)?": {
+        "Alumni": 4.666666666666667,
+        "Ambassador": 4.375,
+        "Student (4th Gen)": 4.543478260869565
+    },
+    "How effective was the EHCB Members' Online Lectures? ": {
+        "Alumni": 4.333333333333333,
+        "Ambassador": 4.5,
+        "Student (4th Gen)": 4.5
+    },
+    "How effective was the EHCB Coaches Congress in providing valuable learning experiences?": {
+        "Alumni": 4.666666666666667,
+        "Ambassador": 4.875,
+        "Student (4th Gen)": 4.619565217391305
+    },
+    "How effective were the lessons on Offensive Team Tactic?": {
+        "Alumni": 4.5,
+        "Ambassador": 3.75,
+        "Student (4th Gen)": 4.445652173913044
+    },
+    "Did the exam adequately assess your knowledge in Offensive Team Tactic?": {
+        "Alumni": 4.333333333333333,
+        "Ambassador": 3.75,
+        "Student (4th Gen)": 4.0978260869565215
+    },
+    "How effective were the lessons on Defensive Team Tactic? ": {
+        "Alumni": 4.5,
+        "Ambassador": 4.0,
+        "Student (4th Gen)": 4.4021739130434785
+    },
+    "Did the exam adequately assess your knowledge in Defensive Team Tactic?": {
+        "Alumni": 4.666666666666667,
+        "Ambassador": 3.75,
+        "Student (4th Gen)": 4.086956521739131
+    },
+    "How effective were the lessons on Individual and Group Tactics? ": {
+        "Alumni": 4.5,
+        "Ambassador": 3.75,
+        "Student (4th Gen)": 4.380434782608695
+    },
+    "Did the exam adequately assess your knowledge in Individual and Group Tactics?": {
+        "Alumni": 4.5,
+        "Ambassador": 3.75,
+        "Student (4th Gen)": 4.086956521739131
+    },
+    "How effective were the lessons on Basketball Technique? ": {
+        "Alumni": 4.5,
+        "Ambassador": 3.875,
+        "Student (4th Gen)": 4.315217391304348
+    },
+    "Did the exam adequately assess your knowledge in Basketball Technique?": {
+        "Alumni": 4.666666666666667,
+        "Ambassador": 3.75,
+        "Student (4th Gen)": 4.108695652173913
+    },
+    "How effective were the lessons on Planning & Programming and S&C?": {
+        "Alumni": 4.333333333333333,
+        "Ambassador": 3.875,
+        "Student (4th Gen)": 4.423913043478261
+    },
+    "Did the exam adequately assess your knowledge in Planning & Programming and S&C?": {
+        "Alumni": 4.5,
+        "Ambassador": 3.625,
+        "Student (4th Gen)": 4.108695652173913
+    },
+    "How effective were the lessons on Selection and Training of Young Players?": {
+        "Alumni": 4.666666666666667,
+        "Ambassador": 4.125,
+        "Student (4th Gen)": 4.369565217391305
+    },
+    "Did the exam adequately assess your knowledge in Selection and Training of Young Players?": {
+        "Alumni": 4.666666666666667,
+        "Ambassador": 3.75,
+        "Student (4th Gen)": 4.086956521739131
+    },
+    "How effective were the lessons on Basketball History and Factors? ": {
+        "Alumni": 4.5,
+        "Ambassador": 3.5,
+        "Student (4th Gen)": 4.032608695652174
+    },
+    "Did the exam adequately assess your knowledge in Basketball History and Factors? ": {
+        "Alumni": 4.5,
+        "Ambassador": 3.75,
+        "Student (4th Gen)": 3.967391304347826
+    },
+    "How effective were the lessons on Theory of Sports Training and S&C? ": {
+        "Alumni": 4.333333333333333,
+        "Ambassador": 3.625,
+        "Student (4th Gen)": 4.380434782608695
+    },
+    "Did the exam adequately assess your knowledge in Theory of Sports Training and S&C? ": {
+        "Alumni": 4.5,
+        "Ambassador": 3.375,
+        "Student (4th Gen)": 4.108695652173913
+    },
+    "How effective were the lessons on Sociology & Psychology?": {
+        "Alumni": 4.5,
+        "Ambassador": 4.0,
+        "Student (4th Gen)": 4.271739130434782
+    },
+    "Did the exam adequately assess your knowledge in Sociology & Psychology?": {
+        "Alumni": 4.5,
+        "Ambassador": 3.75,
+        "Student (4th Gen)": 4.076086956521739
+    },
+    "How effective were the lessons on Human Motoric? ": {
+        "Alumni": 4.5,
+        "Ambassador": 3.75,
+        "Student (4th Gen)": 4.195652173913044
+    },
+    "Did the exam adequately assess your knowledge in Human Motoric? ": {
+        "Alumni": 4.5,
+        "Ambassador": 3.5,
+        "Student (4th Gen)": 4.043478260869565
+    },
+    "How effective were the lessons on Biomedicine Subjects?": {
+        "Alumni": 4.5,
+        "Ambassador": 3.625,
+        "Student (4th Gen)": 4.086956521739131
+    },
+    "Did the exam adequately assess your knowledge in Biomedicine Subjects?": {
+        "Alumni": 4.5,
+        "Ambassador": 3.75,
+        "Student (4th Gen)": 4.021739130434782
+    },
+    "How satisfied were you about the collaboration with University of Belgrade?": {
+        "Alumni": 5.0,
+        "Ambassador": 4.125,
+        "Student (4th Gen)": 4.489130434782608
+    },
+    "How satisfied were you with the professors of the University of Belgrade?": {
+        "Alumni": 4.833333333333333,
+        "Ambassador": 4.25,
+        "Student (4th Gen)": 4.380434782608695
+    },
+    "How satisfied were you with the exams in general?": {
+        "Alumni": 4.666666666666667,
+        "Ambassador": 3.75,
+        "Student (4th Gen)": 4.141304347826087
+    },
+    "Were you able to attend most of the lessons as per your personal schedule?": {
+        "Alumni": 3.5,
+        "Ambassador": 2.75,
+        "Student (4th Gen)": 3.217391304347826
+    },
+    "How satisfied were you with the general attendance of your peers in the lessons? ": {
+        "Alumni": 4.166666666666667,
+        "Ambassador": 2.875,
+        "Student (4th Gen)": 3.489130434782609
+    },
+    "How would you rate the overall scheduling of the lessons?": {
+        "Alumni": 4.0,
+        "Ambassador": 3.625,
+        "Student (4th Gen)": 3.8369565217391304
+    },
+    "How valuable did you find the Bonus Lectures?": {
+        "Alumni": 4.772222222222222,
+        "Ambassador": 4.7375,
+        "Student (4th Gen)": 4.615217391304348
+    },
+    "Were the topics covered in the Bonus Lectures relevant to your coaching needs / expectations? ": {
+        "Alumni": 4.763888888888888,
+        "Ambassador": 4.71875,
+        "Student (4th Gen)": 4.559782608695652
+    },
+    "How user-friendly was Zoom?": {
+        "Alumni": 4.666666666666667,
+        "Ambassador": 4.75,
+        "Student (4th Gen)": 4.673913043478261
+    },
+    "How user-friendly was MS Teams?": {
+        "Alumni": 4.166666666666667,
+        "Ambassador": 3.625,
+        "Student (4th Gen)": 4.554347826086956
+    },
+    "How effective were the communication channels (WhatsApp, email, etc.)?": {
+        "Alumni": 4.333333333333333,
+        "Ambassador": 4.375,
+        "Student (4th Gen)": 4.315217391304348
+    },
+    "Were the lesson schedules and reminders adequately managed?": {
+        "Alumni": 4.166666666666667,
+        "Ambassador": 4.5,
+        "Student (4th Gen)": 4.195652173913044
+    },
+    "How accessible were the recorded lectures and materials? ": {
+        "Alumni": 4.166666666666667,
+        "Ambassador": 4.25,
+        "Student (4th Gen)": 4.565217391304348
+    },
+    "Please rate the overall technical support provided during the courses.": {
+        "Alumni": 4.5,
+        "Ambassador": 4.5,
+        "Student (4th Gen)": 4.478260869565218
+    },
+    "Please rate the support provided for operational aspects of the academy": {
+        "Alumni": 4.166666666666667,
+        "Ambassador": 4.25,
+        "Student (4th Gen)": 4.467391304347826
+    },
+    "How well-organized was the practice week with EuroLeague teams?": {
+        "Alumni": 3.867579908675799,
+        "Ambassador": 4.5034246575342465,
+        "Student (4th Gen)": 4.201608100059559
+    },
+    "How beneficial was the practice week for your coaching development?": {
+        "Alumni": 4.248858447488584,
+        "Ambassador": 4.183219178082192,
+        "Student (4th Gen)": 4.53603335318642
+    },
+    "How satisfactory was your interaction with the coaches of the practice week team? ": {
+        "Alumni": 4.054794520547945,
+        "Ambassador": 3.955479452054795,
+        "Student (4th Gen)": 4.37909469922573
+    },
+    "How effective were the practice week presentations?": {
+        "Alumni": 4.379385964912281,
+        "Ambassador": 4.047697368421052,
+        "Student (4th Gen)": 4.2894736842105265
+    },
+    "How would you rate the out-of-court experiences in the city of the practice week?": {
+        "Alumni": 4.213963963963963,
+        "Ambassador": 4.052364864864865,
+        "Student (4th Gen)": 4.3084606345475915
+    },
+    "Please rate the support provided for operational aspects of the practice week (travel,  accommodation, guidance etc.)": {
+        "Alumni": 4.337899543378995,
+        "Ambassador": 3.642123287671233,
+        "Student (4th Gen)": 4.04064919594997
+    },
+    "How effective were the panels and masterclasses at the Congress?": {
+        "Alumni": 4.533333333333333,
+        "Ambassador": 4.525,
+        "Student (4th Gen)": 4.610869565217391
+    },
+    "How valuable was the networking opportunity provided at the Congress?": {
+        "Alumni": 4.45679012345679,
+        "Ambassador": 4.342592592592593,
+        "Student (4th Gen)": 4.367149758454106
+    },
+    "Did you find the certification ceremony satisfactory? ": {
+        "Alumni": 3.641350210970464,
+        "Ambassador": 3.596518987341772,
+        "Student (4th Gen)": 3.9709686296092457
+    },
+    "How satisfactory were the facilities at the Congress? ": {
+        "Alumni": 3.6794871794871793,
+        "Ambassador": 4.264423076923077,
+        "Student (4th Gen)": 4.042224080267558
+    },
+    "How well-structured was the Congress?": {
+        "Alumni": 4.241666666666666,
+        "Ambassador": 4.66875,
+        "Student (4th Gen)": 4.444565217391304
+    },
+    "How satisfied were you with the interactions and networking with other students?": {
+        "Alumni": 4.048192771084337,
+        "Ambassador": 4.483433734939759,
+        "Student (4th Gen)": 4.287977998952331
+    },
+    "To what extent has the academy helped you become a better coach?": {
+        "Alumni": 4.666666666666667,
+        "Ambassador": 4.75,
+        "Student (4th Gen)": 4.565217391304348
+    },
+    "How much knowledge did you gain from the EHCB Coaches Academy's  modules?": {
+        "Alumni": 4.5,
+        "Ambassador": 4.25,
+        "Student (4th Gen)": 4.369565217391305
+    },
+    "Did the academy meet your expectations for professional networking? ": {
+        "Alumni": 4.333333333333333,
+        "Ambassador": 4.375,
+        "Student (4th Gen)": 4.315217391304348
+    },
+    "How likely are you to recommend the EHCB Coaches Academy to other coaches? ": {
+        "Alumni": 4.666666666666667,
+        "Ambassador": 5.0,
+        "Student (4th Gen)": 4.782608695652174
+    }
+}

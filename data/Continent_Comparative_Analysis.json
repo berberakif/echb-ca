@@ -1,0 +1,710 @@
+{
+    "Residence_Continent": {
+        "Birth Year": {
+            "Asia": 1993.0,
+            "Europe - EuroLeague": 1986.111111111111,
+            "Europe - Non-EuroLeague": 1988.0,
+            "North America": 1989.25,
+            "South America": 1995.0
+        },
+        "How satisfied were you with the clarity of the application instructions? ": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 4.222222222222222,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 4.5,
+            "South America": 5.0
+        },
+        "How smooth was the registration process?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 4.0,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 4.25,
+            "South America": 5.0
+        },
+        "How helpful was the initial contact with the academy\u2019s staff? ": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 4.222222222222222,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 5.0,
+            "South America": 5.0
+        },
+        "Were the payment options and processes clear and convenient?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 4.444444444444445,
+            "Europe - Non-EuroLeague": 3.0,
+            "North America": 3.0,
+            "South America": 3.0
+        },
+        "Were you satisfied with the price of the Academy?": {
+            "Asia": 3.0,
+            "Europe - EuroLeague": 4.0,
+            "Europe - Non-EuroLeague": 4.0,
+            "North America": 3.25,
+            "South America": 3.0
+        },
+        "How relevant was the General Academic Lectures to your coaching needs?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.3333333333333335,
+            "Europe - Non-EuroLeague": 4.0,
+            "North America": 4.0,
+            "South America": 4.0
+        },
+        "How useful did you find the Basketball Academic Lectures?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 4.0,
+            "Europe - Non-EuroLeague": 4.0,
+            "North America": 4.25,
+            "South America": 5.0
+        },
+        "How beneficial were the new modules introduced this year (Scouting, S&C, Officiating, Medical)?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 4.333333333333333,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 3.5,
+            "South America": 3.0
+        },
+        "How effective was the EHCB Members' Online Lectures? ": {
+            "Asia": 4.0,
+            "Europe - EuroLeague": 4.111111111111111,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 4.0,
+            "South America": 3.0
+        },
+        "How effective was the EHCB Coaches Congress in providing valuable learning experiences?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 4.0,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 4.0,
+            "South America": 3.0
+        },
+        "How effective were the lessons on Offensive Team Tactic?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 4.0,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 3.75,
+            "South America": 5.0
+        },
+        "Did the exam adequately assess your knowledge in Offensive Team Tactic?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.3333333333333335,
+            "Europe - Non-EuroLeague": 3.0,
+            "North America": 3.25,
+            "South America": 4.0
+        },
+        "How effective were the lessons on Defensive Team Tactic? ": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.888888888888889,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 3.75,
+            "South America": 5.0
+        },
+        "Did the exam adequately assess your knowledge in Defensive Team Tactic?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.3333333333333335,
+            "Europe - Non-EuroLeague": 3.0,
+            "North America": 4.0,
+            "South America": 4.0
+        },
+        "How effective were the lessons on Individual and Group Tactics? ": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.888888888888889,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 3.75,
+            "South America": 5.0
+        },
+        "Did the exam adequately assess your knowledge in Individual and Group Tactics?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.3333333333333335,
+            "Europe - Non-EuroLeague": 3.0,
+            "North America": 3.5,
+            "South America": 4.0
+        },
+        "How effective were the lessons on Basketball Technique? ": {
+            "Asia": 4.0,
+            "Europe - EuroLeague": 3.3333333333333335,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 3.75,
+            "South America": 5.0
+        },
+        "Did the exam adequately assess your knowledge in Basketball Technique?": {
+            "Asia": 4.0,
+            "Europe - EuroLeague": 3.2222222222222223,
+            "Europe - Non-EuroLeague": 3.0,
+            "North America": 4.25,
+            "South America": 5.0
+        },
+        "How effective were the lessons on Planning & Programming and S&C?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 4.0,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 3.75,
+            "South America": 5.0
+        },
+        "Did the exam adequately assess your knowledge in Planning & Programming and S&C?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.4444444444444446,
+            "Europe - Non-EuroLeague": 3.0,
+            "North America": 4.0,
+            "South America": 4.0
+        },
+        "How effective were the lessons on Selection and Training of Young Players?": {
+            "Asia": 4.0,
+            "Europe - EuroLeague": 3.4444444444444446,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 4.25,
+            "South America": 5.0
+        },
+        "Did the exam adequately assess your knowledge in Selection and Training of Young Players?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.111111111111111,
+            "Europe - Non-EuroLeague": 3.0,
+            "North America": 4.0,
+            "South America": 4.0
+        },
+        "How effective were the lessons on Basketball History and Factors? ": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.4444444444444446,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 4.0,
+            "South America": 5.0
+        },
+        "Did the exam adequately assess your knowledge in Basketball History and Factors? ": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.0,
+            "Europe - Non-EuroLeague": 3.0,
+            "North America": 4.25,
+            "South America": 4.0
+        },
+        "How effective were the lessons on Theory of Sports Training and S&C? ": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.7777777777777777,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 4.25,
+            "South America": 4.0
+        },
+        "Did the exam adequately assess your knowledge in Theory of Sports Training and S&C? ": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.3333333333333335,
+            "Europe - Non-EuroLeague": 3.0,
+            "North America": 4.25,
+            "South America": 4.0
+        },
+        "How effective were the lessons on Sociology & Psychology?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.4444444444444446,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 4.0,
+            "South America": 4.0
+        },
+        "Did the exam adequately assess your knowledge in Sociology & Psychology?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.111111111111111,
+            "Europe - Non-EuroLeague": 3.0,
+            "North America": 4.25,
+            "South America": 4.0
+        },
+        "How effective were the lessons on Human Motoric? ": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.4444444444444446,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 4.75,
+            "South America": 5.0
+        },
+        "Did the exam adequately assess your knowledge in Human Motoric? ": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.3333333333333335,
+            "Europe - Non-EuroLeague": 3.0,
+            "North America": 4.25,
+            "South America": 5.0
+        },
+        "How effective were the lessons on Biomedicine Subjects?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.4444444444444446,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 3.75,
+            "South America": 3.0
+        },
+        "Did the exam adequately assess your knowledge in Biomedicine Subjects?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.3333333333333335,
+            "Europe - Non-EuroLeague": 3.0,
+            "North America": 4.0,
+            "South America": 4.0
+        },
+        "How satisfied were you about the collaboration with University of Belgrade?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.888888888888889,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 5.0,
+            "South America": 5.0
+        },
+        "How satisfied were you with the professors of the University of Belgrade?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.7777777777777777,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 4.75,
+            "South America": 3.0
+        },
+        "How satisfied were you with the exams in general?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.2222222222222223,
+            "Europe - Non-EuroLeague": 3.0,
+            "North America": 4.25,
+            "South America": 3.0
+        },
+        "Were you able to attend most of the lessons as per your personal schedule?": {
+            "Asia": 2.0,
+            "Europe - EuroLeague": 3.0,
+            "Europe - Non-EuroLeague": 3.0,
+            "North America": 1.75,
+            "South America": 3.0
+        },
+        "How satisfied were you with the general attendance of your peers in the lessons? ": {
+            "Asia": 3.0,
+            "Europe - EuroLeague": 3.0,
+            "Europe - Non-EuroLeague": 3.0,
+            "North America": 3.75,
+            "South America": 3.0
+        },
+        "How would you rate the overall scheduling of the lessons?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.111111111111111,
+            "Europe - Non-EuroLeague": 3.0,
+            "North America": 3.0,
+            "South America": 4.0
+        },
+        "How valuable did you find the Bonus Lectures?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 4.503703703703703,
+            "Europe - Non-EuroLeague": 4.0,
+            "North America": 4.633333333333334,
+            "South America": 5.0
+        },
+        "Were the topics covered in the Bonus Lectures relevant to your coaching needs / expectations? ": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 4.481481481481481,
+            "Europe - Non-EuroLeague": 4.0,
+            "North America": 4.583333333333333,
+            "South America": 5.0
+        },
+        "How user-friendly was Zoom?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 4.444444444444445,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 4.5,
+            "South America": 4.0
+        },
+        "How user-friendly was MS Teams?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 4.111111111111111,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 4.25,
+            "South America": 5.0
+        },
+        "How effective were the communication channels (WhatsApp, email, etc.)?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 4.111111111111111,
+            "Europe - Non-EuroLeague": 3.0,
+            "North America": 3.75,
+            "South America": 3.0
+        },
+        "Were the lesson schedules and reminders adequately managed?": {
+            "Asia": 4.0,
+            "Europe - EuroLeague": 3.6666666666666665,
+            "Europe - Non-EuroLeague": 4.0,
+            "North America": 4.25,
+            "South America": 4.0
+        },
+        "How accessible were the recorded lectures and materials? ": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 4.222222222222222,
+            "Europe - Non-EuroLeague": 4.0,
+            "North America": 4.25,
+            "South America": 5.0
+        },
+        "Please rate the overall technical support provided during the courses.": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 4.111111111111111,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 4.5,
+            "South America": 5.0
+        },
+        "Please rate the support provided for operational aspects of the academy": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.888888888888889,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 4.25,
+            "South America": 4.0
+        },
+        "How well-organized was the practice week with EuroLeague teams?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 4.045662100456621,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 3.8527397260273974,
+            "South America": 4.205479452054795
+        },
+        "How beneficial was the practice week for your coaching development?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 4.665144596651446,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 4.2465753424657535,
+            "South America": 4.493150684931507
+        },
+        "How satisfactory was your interaction with the coaches of the practice week team? ": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 4.62861491628615,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 3.664383561643836,
+            "South America": 4.328767123287672
+        },
+        "How effective were the practice week presentations?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 4.505847953216374,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 3.3190789473684212,
+            "South America": 4.276315789473684
+        },
+        "How would you rate the out-of-court experiences in the city of the practice week?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.9204204204204203,
+            "Europe - Non-EuroLeague": 4.0,
+            "North America": 3.391891891891892,
+            "South America": 4.283783783783784
+        },
+        "Please rate the support provided for operational aspects of the practice week (travel,  accommodation, guidance etc.)": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.6757990867579906,
+            "Europe - Non-EuroLeague": 3.0,
+            "North America": 3.2636986301369864,
+            "South America": 4.027397260273973
+        },
+        "How effective were the panels and masterclasses at the Congress?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 4.066666666666666,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 4.199999999999999,
+            "South America": 4.0
+        },
+        "How valuable was the networking opportunity provided at the Congress?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.5967078189300405,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 4.027777777777778,
+            "South America": 5.0
+        },
+        "Did you find the certification ceremony satisfactory? ": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 2.9915611814345993,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 3.4430379746835444,
+            "South America": 2.0
+        },
+        "How satisfactory were the facilities at the Congress? ": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.2264957264957266,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 3.5288461538461537,
+            "South America": 4.0
+        },
+        "How well-structured was the Congress?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.827777777777778,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 3.8375000000000004,
+            "South America": 5.0
+        },
+        "How satisfied were you with the interactions and networking with other students?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.698795180722892,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 3.716867469879518,
+            "South America": 2.0
+        },
+        "To what extent has the academy helped you become a better coach?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.888888888888889,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 4.0,
+            "South America": 5.0
+        },
+        "How much knowledge did you gain from the EHCB Coaches Academy's  modules?": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.6666666666666665,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 3.75,
+            "South America": 3.0
+        },
+        "Did the academy meet your expectations for professional networking? ": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 3.5555555555555554,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 3.0,
+            "South America": 3.0
+        },
+        "How likely are you to recommend the EHCB Coaches Academy to other coaches? ": {
+            "Asia": 5.0,
+            "Europe - EuroLeague": 4.666666666666667,
+            "Europe - Non-EuroLeague": 5.0,
+            "North America": 4.25,
+            "South America": 4.0
+        }
+    },
+    "Nationality_Continent": {
+        "Birth Year": {
+            "Europe - EuroLeague": 1984.857142857143,
+            "North America": 1978.0
+        },
+        "How satisfied were you with the clarity of the application instructions? ": {
+            "Europe - EuroLeague": 4.285714285714286,
+            "North America": 4.0
+        },
+        "How smooth was the registration process?": {
+            "Europe - EuroLeague": 4.285714285714286,
+            "North America": 3.5
+        },
+        "How helpful was the initial contact with the academy\u2019s staff? ": {
+            "Europe - EuroLeague": 4.428571428571429,
+            "North America": 5.0
+        },
+        "Were the payment options and processes clear and convenient?": {
+            "Europe - EuroLeague": 4.0,
+            "North America": 3.0
+        },
+        "Were you satisfied with the price of the Academy?": {
+            "Europe - EuroLeague": 3.7142857142857144,
+            "North America": 3.5
+        },
+        "How relevant was the General Academic Lectures to your coaching needs?": {
+            "Europe - EuroLeague": 3.857142857142857,
+            "North America": 3.5
+        },
+        "How useful did you find the Basketball Academic Lectures?": {
+            "Europe - EuroLeague": 4.285714285714286,
+            "North America": 4.0
+        },
+        "How beneficial were the new modules introduced this year (Scouting, S&C, Officiating, Medical)?": {
+            "Europe - EuroLeague": 4.571428571428571,
+            "North America": 4.5
+        },
+        "How effective was the EHCB Members' Online Lectures? ": {
+            "Europe - EuroLeague": 4.857142857142857,
+            "North America": 4.0
+        },
+        "How effective was the EHCB Coaches Congress in providing valuable learning experiences?": {
+            "Europe - EuroLeague": 4.571428571428571,
+            "North America": 4.0
+        },
+        "How effective were the lessons on Offensive Team Tactic?": {
+            "Europe - EuroLeague": 4.142857142857143,
+            "North America": 4.0
+        },
+        "Did the exam adequately assess your knowledge in Offensive Team Tactic?": {
+            "Europe - EuroLeague": 3.7142857142857144,
+            "North America": 3.5
+        },
+        "How effective were the lessons on Defensive Team Tactic? ": {
+            "Europe - EuroLeague": 4.142857142857143,
+            "North America": 4.0
+        },
+        "Did the exam adequately assess your knowledge in Defensive Team Tactic?": {
+            "Europe - EuroLeague": 3.7142857142857144,
+            "North America": 4.5
+        },
+        "How effective were the lessons on Individual and Group Tactics? ": {
+            "Europe - EuroLeague": 4.0,
+            "North America": 4.0
+        },
+        "Did the exam adequately assess your knowledge in Individual and Group Tactics?": {
+            "Europe - EuroLeague": 3.7142857142857144,
+            "North America": 4.0
+        },
+        "How effective were the lessons on Basketball Technique? ": {
+            "Europe - EuroLeague": 3.857142857142857,
+            "North America": 4.0
+        },
+        "Did the exam adequately assess your knowledge in Basketball Technique?": {
+            "Europe - EuroLeague": 3.7142857142857144,
+            "North America": 4.5
+        },
+        "How effective were the lessons on Planning & Programming and S&C?": {
+            "Europe - EuroLeague": 3.857142857142857,
+            "North America": 4.0
+        },
+        "Did the exam adequately assess your knowledge in Planning & Programming and S&C?": {
+            "Europe - EuroLeague": 3.5714285714285716,
+            "North America": 4.5
+        },
+        "How effective were the lessons on Selection and Training of Young Players?": {
+            "Europe - EuroLeague": 3.7142857142857144,
+            "North America": 4.5
+        },
+        "Did the exam adequately assess your knowledge in Selection and Training of Young Players?": {
+            "Europe - EuroLeague": 3.5714285714285716,
+            "North America": 4.5
+        },
+        "How effective were the lessons on Basketball History and Factors? ": {
+            "Europe - EuroLeague": 3.2857142857142856,
+            "North America": 4.5
+        },
+        "Did the exam adequately assess your knowledge in Basketball History and Factors? ": {
+            "Europe - EuroLeague": 3.142857142857143,
+            "North America": 4.5
+        },
+        "How effective were the lessons on Theory of Sports Training and S&C? ": {
+            "Europe - EuroLeague": 3.5714285714285716,
+            "North America": 4.0
+        },
+        "Did the exam adequately assess your knowledge in Theory of Sports Training and S&C? ": {
+            "Europe - EuroLeague": 3.7142857142857144,
+            "North America": 4.5
+        },
+        "How effective were the lessons on Sociology & Psychology?": {
+            "Europe - EuroLeague": 4.0,
+            "North America": 4.5
+        },
+        "Did the exam adequately assess your knowledge in Sociology & Psychology?": {
+            "Europe - EuroLeague": 3.7142857142857144,
+            "North America": 4.5
+        },
+        "How effective were the lessons on Human Motoric? ": {
+            "Europe - EuroLeague": 3.2857142857142856,
+            "North America": 4.5
+        },
+        "Did the exam adequately assess your knowledge in Human Motoric? ": {
+            "Europe - EuroLeague": 3.142857142857143,
+            "North America": 4.5
+        },
+        "How effective were the lessons on Biomedicine Subjects?": {
+            "Europe - EuroLeague": 3.4285714285714284,
+            "North America": 4.5
+        },
+        "Did the exam adequately assess your knowledge in Biomedicine Subjects?": {
+            "Europe - EuroLeague": 3.2857142857142856,
+            "North America": 4.5
+        },
+        "How satisfied were you about the collaboration with University of Belgrade?": {
+            "Europe - EuroLeague": 3.5714285714285716,
+            "North America": 5.0
+        },
+        "How satisfied were you with the professors of the University of Belgrade?": {
+            "Europe - EuroLeague": 3.5714285714285716,
+            "North America": 4.5
+        },
+        "How satisfied were you with the exams in general?": {
+            "Europe - EuroLeague": 3.857142857142857,
+            "North America": 4.5
+        },
+        "Were you able to attend most of the lessons as per your personal schedule?": {
+            "Europe - EuroLeague": 3.5714285714285716,
+            "North America": 3.0
+        },
+        "How satisfied were you with the general attendance of your peers in the lessons? ": {
+            "Europe - EuroLeague": 3.5714285714285716,
+            "North America": 4.5
+        },
+        "How would you rate the overall scheduling of the lessons?": {
+            "Europe - EuroLeague": 3.7142857142857144,
+            "North America": 3.5
+        },
+        "How valuable did you find the Bonus Lectures?": {
+            "Europe - EuroLeague": 4.647619047619047,
+            "North America": 4.816666666666666
+        },
+        "Were the topics covered in the Bonus Lectures relevant to your coaching needs / expectations? ": {
+            "Europe - EuroLeague": 4.476190476190476,
+            "North America": 4.791666666666666
+        },
+        "How user-friendly was Zoom?": {
+            "Europe - EuroLeague": 4.142857142857143,
+            "North America": 4.0
+        },
+        "How user-friendly was MS Teams?": {
+            "Europe - EuroLeague": 3.857142857142857,
+            "North America": 3.5
+        },
+        "How effective were the communication channels (WhatsApp, email, etc.)?": {
+            "Europe - EuroLeague": 4.142857142857143,
+            "North America": 3.5
+        },
+        "Were the lesson schedules and reminders adequately managed?": {
+            "Europe - EuroLeague": 4.142857142857143,
+            "North America": 4.0
+        },
+        "How accessible were the recorded lectures and materials? ": {
+            "Europe - EuroLeague": 4.714285714285714,
+            "North America": 3.5
+        },
+        "Please rate the overall technical support provided during the courses.": {
+            "Europe - EuroLeague": 4.0,
+            "North America": 4.0
+        },
+        "Please rate the support provided for operational aspects of the academy": {
+            "Europe - EuroLeague": 4.285714285714286,
+            "North America": 3.5
+        },
+        "How well-organized was the practice week with EuroLeague teams?": {
+            "Europe - EuroLeague": 4.0587084148727985,
+            "North America": 4.0
+        },
+        "How beneficial was the practice week for your coaching development?": {
+            "Europe - EuroLeague": 4.85518590998043,
+            "North America": 4.0
+        },
+        "How satisfactory was your interaction with the coaches of the practice week team? ": {
+            "Europe - EuroLeague": 4.808219178082192,
+            "North America": 4.0
+        },
+        "How effective were the practice week presentations?": {
+            "Europe - EuroLeague": 4.2218045112781954,
+            "North America": 4.0
+        },
+        "How would you rate the out-of-court experiences in the city of the practice week?": {
+            "Europe - EuroLeague": 3.7953667953667956,
+            "North America": 4.0
+        },
+        "Please rate the support provided for operational aspects of the practice week (travel,  accommodation, guidance etc.)": {
+            "Europe - EuroLeague": 3.579256360078278,
+            "North America": 4.0
+        },
+        "How effective were the panels and masterclasses at the Congress?": {
+            "Europe - EuroLeague": 4.6000000000000005,
+            "North America": 4.0
+        },
+        "How valuable was the networking opportunity provided at the Congress?": {
+            "Europe - EuroLeague": 4.677248677248677,
+            "North America": 4.0
+        },
+        "Did you find the certification ceremony satisfactory? ": {
+            "Europe - EuroLeague": 3.396021699819168,
+            "North America": 3.5
+        },
+        "How satisfactory were the facilities at the Congress? ": {
+            "Europe - EuroLeague": 3.873626373626373,
+            "North America": 3.5
+        },
+        "How well-structured was the Congress?": {
+            "Europe - EuroLeague": 4.478571428571429,
+            "North America": 3.5
+        },
+        "How satisfied were you with the interactions and networking with other students?": {
+            "Europe - EuroLeague": 4.225473321858864,
+            "North America": 3.5
+        },
+        "To what extent has the academy helped you become a better coach?": {
+            "Europe - EuroLeague": 4.428571428571429,
+            "North America": 4.0
+        },
+        "How much knowledge did you gain from the EHCB Coaches Academy's  modules?": {
+            "Europe - EuroLeague": 4.142857142857143,
+            "North America": 4.0
+        },
+        "Did the academy meet your expectations for professional networking? ": {
+            "Europe - EuroLeague": 4.428571428571429,
+            "North America": 4.0
+        },
+        "How likely are you to recommend the EHCB Coaches Academy to other coaches? ": {
+            "Europe - EuroLeague": 5.0,
+            "North America": 4.0
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "Student (4th Gen)": [
+        {
+            "Lesson_Exam": "How beneficial were the new modules introduced this year (Scouting, S&C, Officiating, Medical)?",
+            "Average_Score": 4.543478260869565,
+            "Participant_Count": 92
+        },
+        {
+            "Lesson_Exam": "How effective was the EHCB Members' Online Lectures? ",
+            "Average_Score": 4.5,
+            "Participant_Count": 92
+        },
+        {
+            "Lesson_Exam": "How effective were the lessons on Offensive Team Tactic?",
+            "Average_Score": 4.445652173913044,
+            "Participant_Count": 92
+        },
+        {
+            "Lesson_Exam": "How useful did you find the Basketball Academic Lectures?",
+            "Average_Score": 4.423913043478261,
+            "Participant_Count": 92
+        },
+        {
+            "Lesson_Exam": "Did the exam adequately assess your knowledge in Offensive Team Tactic?",
+            "Average_Score": 4.0978260869565215,
+            "Participant_Count": 92
+        },
+        {
+            "Lesson_Exam": "Did the exam adequately assess your knowledge in Defensive Team Tactic?",
+            "Average_Score": 4.086956521739131,
+            "Participant_Count": 92
+        },
+        {
+            "Lesson_Exam": "How relevant was the General Academic Lectures to your coaching needs?",
+            "Average_Score": 4.032608695652174,
+            "Participant_Count": 92
+        }
+    ],
+    "Alumni": [
+        {
+            "Lesson_Exam": "How beneficial were the new modules introduced this year (Scouting, S&C, Officiating, Medical)?",
+            "Average_Score": 4.666666666666667,
+            "Participant_Count": 6
+        },
+        {
+            "Lesson_Exam": "Did the exam adequately assess your knowledge in Defensive Team Tactic?",
+            "Average_Score": 4.666666666666667,
+            "Participant_Count": 6
+        },
+        {
+            "Lesson_Exam": "How useful did you find the Basketball Academic Lectures?",
+            "Average_Score": 4.5,
+            "Participant_Count": 6
+        },
+        {
+            "Lesson_Exam": "How effective were the lessons on Offensive Team Tactic?",
+            "Average_Score": 4.5,
+            "Participant_Count": 6
+        },
+        {
+            "Lesson_Exam": "How effective was the EHCB Members' Online Lectures? ",
+            "Average_Score": 4.333333333333333,
+            "Participant_Count": 6
+        },
+        {
+            "Lesson_Exam": "Did the exam adequately assess your knowledge in Offensive Team Tactic?",
+            "Average_Score": 4.333333333333333,
+            "Participant_Count": 6
+        },
+        {
+            "Lesson_Exam": "How relevant was the General Academic Lectures to your coaching needs?",
+            "Average_Score": 3.8333333333333335,
+            "Participant_Count": 6
+        }
+    ],
+    "Ambassador": [
+        {
+            "Lesson_Exam": "How effective was the EHCB Members' Online Lectures? ",
+            "Average_Score": 4.5,
+            "Participant_Count": 8
+        },
+        {
+            "Lesson_Exam": "How beneficial were the new modules introduced this year (Scouting, S&C, Officiating, Medical)?",
+            "Average_Score": 4.375,
+            "Participant_Count": 8
+        },
+        {
+            "Lesson_Exam": "How useful did you find the Basketball Academic Lectures?",
+            "Average_Score": 4.125,
+            "Participant_Count": 8
+        },
+        {
+            "Lesson_Exam": "How effective were the lessons on Offensive Team Tactic?",
+            "Average_Score": 3.75,
+            "Participant_Count": 8
+        },
+        {
+            "Lesson_Exam": "Did the exam adequately assess your knowledge in Offensive Team Tactic?",
+            "Average_Score": 3.75,
+            "Participant_Count": 8
+        },
+        {
+            "Lesson_Exam": "Did the exam adequately assess your knowledge in Defensive Team Tactic?",
+            "Average_Score": 3.75,
+            "Participant_Count": 8
+        },
+        {
+            "Lesson_Exam": "How relevant was the General Academic Lectures to your coaching needs?",
+            "Average_Score": 3.375,
+            "Participant_Count": 8
+        }
+    ]
+}

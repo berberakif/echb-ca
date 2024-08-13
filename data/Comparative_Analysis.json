@@ -1,0 +1,33 @@
+{
+    "Satisfaction_By_Role": {
+        "Did you find the certification ceremony satisfactory? ": {
+            "Alumni": 3.641350210970464,
+            "Ambassador": 3.596518987341772,
+            "Student (4th Gen)": 3.9709686296092457
+        },
+        "How effective were the practice week presentations?": {
+            "Alumni": 4.379385964912281,
+            "Ambassador": 4.047697368421052,
+            "Student (4th Gen)": 4.2894736842105265
+        },
+        "How much knowledge did you gain from the EHCB Coaches Academy's  modules?": {
+            "Alumni": 4.5,
+            "Ambassador": 4.25,
+            "Student (4th Gen)": 4.369565217391305
+        }
+    },
+    "Satisfaction_By_Gender": {
+        "Did you find the certification ceremony satisfactory? ": {
+            "F": 4.0689170182841075,
+            "M": 3.910609421897429
+        },
+        "How effective were the practice week presentations?": {
+            "F": 4.425438596491229,
+            "M": 4.262479652740097
+        },
+        "How much knowledge did you gain from the EHCB Coaches Academy's  modules?": {
+            "F": 4.444444444444445,
+            "M": 4.360824742268041
+        }
+    }
+}
