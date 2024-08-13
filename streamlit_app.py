@@ -5,6 +5,7 @@ from analysis.recommendations import recommendations
 from analysis.pca_analysis import pca_analysis 
 from analysis.satisfaction_analysis import satisfaction_analysis
 from analysis.comparative_analysis import comparative_analysis
+from analysis.open_ended_viewer import open_ended_viewer
 
 # Retrieve the username and password from Streamlit secrets
 USERNAME = st.secrets["STREAMLIT_USERNAME"]
@@ -30,7 +31,7 @@ if not st.session_state["logged_in"]:
 else:
     # If logged in, display the rest of the app
     st.sidebar.header("Navigate")
-    section = st.sidebar.radio("Go to", ["Summary", "Demographics", "PCA Analysis", "Satisfaction Details", "Comparative Analysis", "Recommendations"])
+    section = st.sidebar.radio("Go to", ["Summary", "Demographics", "PCA Analysis", "Satisfaction Details", "Comparative Analysis", "Recommendations", "Feedback Viewer"])
 
     # Display the selected section with filtering
     if section == "Summary":
@@ -45,6 +46,8 @@ else:
         comparative_analysis()
     elif section == "Recommendations":
         recommendations()
+    elif section == "Feedback Viewer":
+        open_ended_viewer() 
 
     # Add a logout button
     if st.sidebar.button("Logout"):
