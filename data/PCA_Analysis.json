@@ -1,0 +1,1085 @@
+{
+    "PCA_Components": [
+        {
+            "PC1": 1.3021075202015335,
+            "PC2": 3.3284860722704233,
+            "PC3": -0.2781369098257823,
+            "PC4": 0.7162534871765834,
+            "PC5": -0.49833211679105727
+        },
+        {
+            "PC1": -6.242798779788901,
+            "PC2": 1.2377617447226186,
+            "PC3": 0.013616526563940086,
+            "PC4": -0.08570050856611719,
+            "PC5": 0.05270601721457507
+        },
+        {
+            "PC1": -2.0936907749866527,
+            "PC2": 1.7936829325372288,
+            "PC3": 1.8033722235753675,
+            "PC4": 1.42586987546334,
+            "PC5": -0.4715849212546794
+        },
+        {
+            "PC1": -6.061024474400963,
+            "PC2": 0.8854444786752527,
+            "PC3": -0.275674870902032,
+            "PC4": -0.09405376974868265,
+            "PC5": 0.529889928365685
+        },
+        {
+            "PC1": -3.1791084480841434,
+            "PC2": -3.798311666477681,
+            "PC3": -1.2103898196535134,
+            "PC4": -2.4017686329073067,
+            "PC5": -2.725312251055983
+        },
+        {
+            "PC1": -1.1455571058844563,
+            "PC2": 0.16572933085040767,
+            "PC3": -0.48525534143301263,
+            "PC4": 0.35065497721530015,
+            "PC5": 0.4836760256457149
+        },
+        {
+            "PC1": 5.989629021609607,
+            "PC2": -5.712391277003594,
+            "PC3": -5.063026154535136,
+            "PC4": 1.2654955605260496,
+            "PC5": -3.169588463381973
+        },
+        {
+            "PC1": -1.3145247927659047,
+            "PC2": 2.382302748999555,
+            "PC3": 0.8687122100061742,
+            "PC4": 0.1555732280806133,
+            "PC5": 1.274259353478151
+        },
+        {
+            "PC1": 3.311341031830323,
+            "PC2": 1.2849839067882423,
+            "PC3": -0.6125403609588647,
+            "PC4": -0.15521606775530147,
+            "PC5": 1.037243757588016
+        },
+        {
+            "PC1": -0.13792888299710096,
+            "PC2": -0.6237059950341484,
+            "PC3": 0.7920850399659319,
+            "PC4": -2.811028406568718,
+            "PC5": -0.2048539116996311
+        },
+        {
+            "PC1": -5.516446083133769,
+            "PC2": 0.26119313530506016,
+            "PC3": 0.2802075377243011,
+            "PC4": -0.6648398373289973,
+            "PC5": 1.1359854203205455
+        },
+        {
+            "PC1": -6.1347246704366825,
+            "PC2": 0.9357054418926385,
+            "PC3": -0.2543414016795259,
+            "PC4": -0.14081181957019942,
+            "PC5": -0.0029701090881480456
+        },
+        {
+            "PC1": -3.4336813819114322,
+            "PC2": -5.28192500931483,
+            "PC3": -3.2175487285865754,
+            "PC4": 2.9089004610965046,
+            "PC5": -2.6940539445446543
+        },
+        {
+            "PC1": -0.7374259546439572,
+            "PC2": 0.217453863455026,
+            "PC3": -0.23004500334369352,
+            "PC4": -0.7261661482012994,
+            "PC5": 0.45143067505819007
+        },
+        {
+            "PC1": 4.76665549369219,
+            "PC2": 0.34276191508540577,
+            "PC3": -0.7665910093134379,
+            "PC4": 0.32818124012477445,
+            "PC5": 0.9251501988074071
+        },
+        {
+            "PC1": -4.589752503013797,
+            "PC2": 0.41840594984125573,
+            "PC3": 1.529688245921262,
+            "PC4": 0.05122980505600386,
+            "PC5": 0.011393825882011445
+        },
+        {
+            "PC1": 2.7507595982746786,
+            "PC2": -0.5607513754267922,
+            "PC3": 1.9067627102790743,
+            "PC4": -1.1539401589239782,
+            "PC5": -0.2142398106409878
+        },
+        {
+            "PC1": -4.9619467616591635,
+            "PC2": -0.7368825877952572,
+            "PC3": -0.3747334991249817,
+            "PC4": -0.09607443205731427,
+            "PC5": -0.9366557179950847
+        },
+        {
+            "PC1": -4.9065316898493165,
+            "PC2": 0.13317280000841353,
+            "PC3": 0.5891937880289747,
+            "PC4": -1.827709334683058,
+            "PC5": 0.02521530923886681
+        },
+        {
+            "PC1": -0.03331613577967386,
+            "PC2": 1.2218506302186294,
+            "PC3": -1.5302097604544473,
+            "PC4": 3.7340516658905143,
+            "PC5": 2.15594058144422
+        },
+        {
+            "PC1": 0.7987322355038672,
+            "PC2": 1.2638167826204953,
+            "PC3": -0.4554422344396825,
+            "PC4": -0.7856721710783537,
+            "PC5": 0.7061448962822197
+        },
+        {
+            "PC1": -4.924243998840582,
+            "PC2": 0.9694231375044373,
+            "PC3": 0.7785029934505735,
+            "PC4": -0.14442931825489835,
+            "PC5": 0.03909781068924914
+        },
+        {
+            "PC1": -2.660464307915086,
+            "PC2": 2.6892107628318453,
+            "PC3": -0.8917527599290067,
+            "PC4": -0.20571050759829865,
+            "PC5": 0.8758146188464991
+        },
+        {
+            "PC1": -1.9335914605969546,
+            "PC2": -0.9122217752481309,
+            "PC3": -0.10168339925817814,
+            "PC4": 0.9839563539981908,
+            "PC5": 0.9815054422574957
+        },
+        {
+            "PC1": 1.692127419992174,
+            "PC2": 3.124970552973156,
+            "PC3": -0.7750501026377921,
+            "PC4": -4.3622981294830705,
+            "PC5": -0.8057557325067867
+        },
+        {
+            "PC1": 0.6211217914183537,
+            "PC2": -0.22732287663174514,
+            "PC3": 1.8690636442003363,
+            "PC4": -0.7771529010773566,
+            "PC5": 0.18171752515472006
+        },
+        {
+            "PC1": -4.657759388274277,
+            "PC2": 1.644700580195554,
+            "PC3": 0.5462187257250465,
+            "PC4": -1.0415651543178472,
+            "PC5": 0.1438965711394464
+        },
+        {
+            "PC1": -4.361657387528102,
+            "PC2": -1.204642871626449,
+            "PC3": -1.2166571898452392,
+            "PC4": -0.04259550916029398,
+            "PC5": -0.4067118984599073
+        },
+        {
+            "PC1": -3.8526550093092364,
+            "PC2": -0.6391072248566358,
+            "PC3": 0.4092152436097548,
+            "PC4": 0.560120933820679,
+            "PC5": -0.8890775776848151
+        },
+        {
+            "PC1": 2.9620604132587367,
+            "PC2": 0.5136684039970573,
+            "PC3": 2.5928294260797586,
+            "PC4": -0.9418462389415818,
+            "PC5": 1.6899573821990561
+        },
+        {
+            "PC1": -4.782949028042184,
+            "PC2": -0.6156872130497135,
+            "PC3": 0.8149889046499565,
+            "PC4": -0.65794989599269,
+            "PC5": 0.8140263093857106
+        },
+        {
+            "PC1": -3.481675049346757,
+            "PC2": 1.9046947446789082,
+            "PC3": -0.8727718522310515,
+            "PC4": 1.3375372062490503,
+            "PC5": 0.6872307801336585
+        },
+        {
+            "PC1": -2.745858855923973,
+            "PC2": 0.6116983501701686,
+            "PC3": -0.8450848266599087,
+            "PC4": 0.09476197151792012,
+            "PC5": -0.4656156830185068
+        },
+        {
+            "PC1": -3.848852149564142,
+            "PC2": 2.114152024233976,
+            "PC3": -0.26656547086265,
+            "PC4": 1.8649786816087643,
+            "PC5": 0.00918933381321598
+        },
+        {
+            "PC1": -4.658378880790516,
+            "PC2": -0.23483368778536978,
+            "PC3": 0.6422341076375044,
+            "PC4": -0.46382742627721824,
+            "PC5": 1.3234354412619314
+        },
+        {
+            "PC1": -0.47276833362987136,
+            "PC2": 0.07433141950874739,
+            "PC3": 1.0867207342532121,
+            "PC4": -2.856445237702498,
+            "PC5": -1.5726019409320353
+        },
+        {
+            "PC1": 0.9266833068256815,
+            "PC2": 3.618279968231686,
+            "PC3": -1.6246722454359017,
+            "PC4": -1.8219664988773174,
+            "PC5": -0.4636596183995079
+        },
+        {
+            "PC1": 4.170585381606181,
+            "PC2": 2.904604843210296,
+            "PC3": -1.8374657818568887,
+            "PC4": -1.2213662220682717,
+            "PC5": -0.7173525454891353
+        },
+        {
+            "PC1": 3.0465374104903495,
+            "PC2": 0.9596533555640202,
+            "PC3": -0.5857874262470145,
+            "PC4": -0.08863765185778276,
+            "PC5": -1.0359060081956224
+        },
+        {
+            "PC1": 4.21681649741057,
+            "PC2": -2.410342416720334,
+            "PC3": 1.4077810907677273,
+            "PC4": -4.902158122445126,
+            "PC5": 0.3430509911043811
+        },
+        {
+            "PC1": -5.53565641038664,
+            "PC2": -0.38244415426519357,
+            "PC3": -1.1329566731995422,
+            "PC4": 0.1012626799612113,
+            "PC5": -0.19731123138121753
+        },
+        {
+            "PC1": -3.898654868408553,
+            "PC2": -1.872009868411237,
+            "PC3": 0.4809635960207633,
+            "PC4": -0.7957438173628231,
+            "PC5": 1.7283721649937411
+        },
+        {
+            "PC1": 19.199333636842905,
+            "PC2": 2.791272281508226,
+            "PC3": 1.623262693011103,
+            "PC4": 0.4650332366698938,
+            "PC5": 2.890903183173498
+        },
+        {
+            "PC1": -1.7790593247599868,
+            "PC2": -0.31530236767418085,
+            "PC3": -0.8257465755127564,
+            "PC4": -1.2460506581688169,
+            "PC5": 0.7706222527958806
+        },
+        {
+            "PC1": 3.358064892534891,
+            "PC2": 1.5362151682710419,
+            "PC3": -3.9659928857399915,
+            "PC4": -1.5096372318288214,
+            "PC5": -2.0879571992572745
+        },
+        {
+            "PC1": -6.091983288234937,
+            "PC2": 0.9881251979501212,
+            "PC3": -0.3060743796161405,
+            "PC4": -0.18954599779819578,
+            "PC5": 0.3651564584922159
+        },
+        {
+            "PC1": 4.311638377563964,
+            "PC2": 3.997269669475837,
+            "PC3": -2.0981538361699403,
+            "PC4": -0.6221056899765098,
+            "PC5": -1.071011369935789
+        },
+        {
+            "PC1": -5.981705993560666,
+            "PC2": 0.8310405799729907,
+            "PC3": 0.0115052295122092,
+            "PC4": -0.2745596993613798,
+            "PC5": 0.4006966871970381
+        },
+        {
+            "PC1": 1.6768950179951296,
+            "PC2": -0.04234847238685953,
+            "PC3": 0.974257778359365,
+            "PC4": -0.3589722365587441,
+            "PC5": 0.5224957328437904
+        },
+        {
+            "PC1": 2.4754961754710707,
+            "PC2": 0.39680488887408044,
+            "PC3": 0.4463083944953677,
+            "PC4": 3.255572079395235,
+            "PC5": -1.4327044333272048
+        },
+        {
+            "PC1": -5.256178949162555,
+            "PC2": -0.605911925779993,
+            "PC3": -0.6161350623938743,
+            "PC4": 0.08569339837497233,
+            "PC5": -0.21853411707033765
+        },
+        {
+            "PC1": 0.3326017756384922,
+            "PC2": -0.7515338115696256,
+            "PC3": 3.9255000206027177,
+            "PC4": -0.24381606577134202,
+            "PC5": -0.46583697594757945
+        },
+        {
+            "PC1": -4.4384657972313635,
+            "PC2": -0.18704300341233013,
+            "PC3": -1.2348558100824423,
+            "PC4": -0.4350283203032833,
+            "PC5": -1.0639775891574534
+        },
+        {
+            "PC1": -0.9479032956895935,
+            "PC2": -0.09571299337297817,
+            "PC3": -0.8652350564212287,
+            "PC4": -1.1260428574563306,
+            "PC5": 0.844562436371529
+        },
+        {
+            "PC1": -2.4754438533289855,
+            "PC2": -3.059825051043088,
+            "PC3": 2.028256596565187,
+            "PC4": -1.270537485021299,
+            "PC5": -0.2708288445852249
+        },
+        {
+            "PC1": 4.69772955253545,
+            "PC2": 0.05915145000569044,
+            "PC3": -0.392168476785453,
+            "PC4": 1.314324188268578,
+            "PC5": 3.705731789488589
+        },
+        {
+            "PC1": 9.474440663957688,
+            "PC2": -5.845886437243887,
+            "PC3": 5.312538100668616,
+            "PC4": -0.06733182777312137,
+            "PC5": -0.23919488499827915
+        },
+        {
+            "PC1": 2.6572517106179703,
+            "PC2": -3.1469799195392674,
+            "PC3": -0.3187239410468242,
+            "PC4": 0.09407595333355102,
+            "PC5": -0.4739975688856782
+        },
+        {
+            "PC1": -3.139033955948196,
+            "PC2": 1.472096596398742,
+            "PC3": -0.4761616182644425,
+            "PC4": -0.6753430728549626,
+            "PC5": -0.9736804033255653
+        },
+        {
+            "PC1": -3.241833782919753,
+            "PC2": 0.15596427097117807,
+            "PC3": -0.9350845971848928,
+            "PC4": 1.02691823229447,
+            "PC5": -0.37007219016009774
+        },
+        {
+            "PC1": 14.383210939904535,
+            "PC2": 3.445879266773891,
+            "PC3": 0.7006848225972883,
+            "PC4": -5.136015835928876,
+            "PC5": -3.9857114960839253
+        },
+        {
+            "PC1": 2.254120970615012,
+            "PC2": 3.2770524315529497,
+            "PC3": -0.5668589831461479,
+            "PC4": 1.422480796398114,
+            "PC5": 0.9088512586668752
+        },
+        {
+            "PC1": -3.9271154565855064,
+            "PC2": -0.6461350941652247,
+            "PC3": 2.9928855071206413,
+            "PC4": 0.45891178473995986,
+            "PC5": -0.8897845625129501
+        },
+        {
+            "PC1": 3.9081674181016717,
+            "PC2": 0.3917426854475342,
+            "PC3": 0.14245016257875398,
+            "PC4": 1.3027954560589052,
+            "PC5": 0.7387802157461246
+        },
+        {
+            "PC1": 6.221506335643283,
+            "PC2": 1.9996759775699002,
+            "PC3": -2.511946655084307,
+            "PC4": 1.5927017330505164,
+            "PC5": 2.1082442617757957
+        },
+        {
+            "PC1": -2.159028224821817,
+            "PC2": -0.6669464263246702,
+            "PC3": -0.13976790977053535,
+            "PC4": 0.3843961968283134,
+            "PC5": 0.8140254267532756
+        },
+        {
+            "PC1": 0.9737194927869928,
+            "PC2": -3.0437097603577894,
+            "PC3": 1.222615082524094,
+            "PC4": 3.0653818188339166,
+            "PC5": 0.17784881339575598
+        },
+        {
+            "PC1": -5.088929513154639,
+            "PC2": -1.1460376813879776,
+            "PC3": -0.49937980194437065,
+            "PC4": -0.5372945711156232,
+            "PC5": -0.7223781529638499
+        },
+        {
+            "PC1": 0.6353031266552119,
+            "PC2": 0.887683213885346,
+            "PC3": -1.2152695087366128,
+            "PC4": -0.09334721971273123,
+            "PC5": -2.6239027828473893
+        },
+        {
+            "PC1": -4.28545205939564,
+            "PC2": -2.023704244452945,
+            "PC3": -0.31851692470721293,
+            "PC4": 0.535839984878653,
+            "PC5": -1.1306030174335218
+        },
+        {
+            "PC1": 5.03115213282112,
+            "PC2": -1.3163669778366078,
+            "PC3": -2.0248812429536125,
+            "PC4": 0.47780800128971895,
+            "PC5": -1.2690600607501608
+        },
+        {
+            "PC1": 0.6463937628371332,
+            "PC2": 0.4902772977475423,
+            "PC3": -0.49407756932120794,
+            "PC4": 0.5693681848003818,
+            "PC5": 0.18141662537439682
+        },
+        {
+            "PC1": -1.0531045070354133,
+            "PC2": -2.244262910977332,
+            "PC3": -1.7791800926994628,
+            "PC4": 0.26341297044380063,
+            "PC5": -1.8692791969261275
+        },
+        {
+            "PC1": -1.5572134668454436,
+            "PC2": 0.29605377606341543,
+            "PC3": -1.8038008677487825,
+            "PC4": -0.9775443779798677,
+            "PC5": 0.2545812271674626
+        },
+        {
+            "PC1": 0.7651260067354575,
+            "PC2": -1.4138203907871307,
+            "PC3": 2.30604900858447,
+            "PC4": 0.3875314266573648,
+            "PC5": -1.7598494749911735
+        },
+        {
+            "PC1": 1.08166914396034,
+            "PC2": 0.8399083602556989,
+            "PC3": 12.056581500738032,
+            "PC4": 5.8705851090412855,
+            "PC5": -4.140151305723371
+        },
+        {
+            "PC1": 1.743397365573807,
+            "PC2": 0.8807836871747218,
+            "PC3": 2.56612332260377,
+            "PC4": -1.1698163337397458,
+            "PC5": 2.2341564633786573
+        },
+        {
+            "PC1": 11.350793890229662,
+            "PC2": 7.759153121006003,
+            "PC3": -0.8489242279930059,
+            "PC4": 4.841638563723821,
+            "PC5": -4.7507402967555645
+        },
+        {
+            "PC1": 1.0490329726185077,
+            "PC2": -1.061055580989671,
+            "PC3": 0.6239910553970721,
+            "PC4": -0.6648110728108657,
+            "PC5": 0.27983271930856324
+        },
+        {
+            "PC1": 4.3084081395877005,
+            "PC2": 2.728537751308235,
+            "PC3": 0.6424125478908688,
+            "PC4": -0.6969554511470395,
+            "PC5": 1.5381626747730928
+        },
+        {
+            "PC1": -5.777638846315016,
+            "PC2": 0.5132095450718547,
+            "PC3": 0.06860803660809316,
+            "PC4": -0.42527480845511084,
+            "PC5": 0.4230590461351959
+        },
+        {
+            "PC1": -4.630236256565406,
+            "PC2": 0.11178404598234198,
+            "PC3": 1.4343527254591897,
+            "PC4": 1.1788391670307587,
+            "PC5": 0.5030073938037484
+        },
+        {
+            "PC1": -5.548111677231118,
+            "PC2": -0.13366985970869671,
+            "PC3": -0.5569702641620894,
+            "PC4": 0.5591801671838712,
+            "PC5": -0.783476257269173
+        },
+        {
+            "PC1": 8.800127388167828,
+            "PC2": -5.329979200639479,
+            "PC3": 1.7238188291691294,
+            "PC4": -2.9327700503108933,
+            "PC5": -4.225572927094786
+        },
+        {
+            "PC1": -0.37692706119987046,
+            "PC2": 0.15229760779046397,
+            "PC3": -2.6771446836070623,
+            "PC4": 3.6075960286263173,
+            "PC5": 0.7830381886239097
+        },
+        {
+            "PC1": 2.6363514687397984,
+            "PC2": 3.1632467934345967,
+            "PC3": -1.9523623379736255,
+            "PC4": -1.5399678096657217,
+            "PC5": -0.8183542284637432
+        },
+        {
+            "PC1": -3.53260868795611,
+            "PC2": 0.3564920384596638,
+            "PC3": 1.4052900747808128,
+            "PC4": 1.1459519968346203,
+            "PC5": -0.1637052242297289
+        },
+        {
+            "PC1": -3.3638453649733666,
+            "PC2": 2.2890528192875474,
+            "PC3": 2.1846733576836863,
+            "PC4": -0.359280480439291,
+            "PC5": -0.9619463096442993
+        },
+        {
+            "PC1": -4.073521868030756,
+            "PC2": 0.6740545536601406,
+            "PC3": 0.15113551801342706,
+            "PC4": -0.2730174778992179,
+            "PC5": 1.9898714282463168
+        },
+        {
+            "PC1": 5.830780308581467,
+            "PC2": -1.9334106549071353,
+            "PC3": 1.3328834084304784,
+            "PC4": -0.5487825628706149,
+            "PC5": 0.6839499965901159
+        },
+        {
+            "PC1": 5.561924110950159,
+            "PC2": 2.4358283019880815,
+            "PC3": 0.04094029681105038,
+            "PC4": 0.40793791386389877,
+            "PC5": -0.1841186223369924
+        },
+        {
+            "PC1": -0.7082055507341788,
+            "PC2": -1.8328633397838796,
+            "PC3": 1.9383295208761036,
+            "PC4": -0.43628244803962335,
+            "PC5": 5.885743924988503
+        },
+        {
+            "PC1": 0.4784016229054677,
+            "PC2": -1.6592594493295352,
+            "PC3": -1.3788396172428055,
+            "PC4": 1.0641224413220147,
+            "PC5": 1.9859002899990064
+        },
+        {
+            "PC1": -0.38990608484790806,
+            "PC2": 0.6320577093671425,
+            "PC3": -2.9004442924312497,
+            "PC4": 1.5358649871908001,
+            "PC5": 0.1052673607511596
+        },
+        {
+            "PC1": 10.718883564604612,
+            "PC2": -3.8188196287840235,
+            "PC3": 2.071312024414937,
+            "PC4": -0.4740799140343799,
+            "PC5": 3.341403372175697
+        },
+        {
+            "PC1": 5.097095424391012,
+            "PC2": -3.7921928130636973,
+            "PC3": -3.3493735328310827,
+            "PC4": 1.8958815408359804,
+            "PC5": -1.1677798087093407
+        },
+        {
+            "PC1": -5.08923741599297,
+            "PC2": -0.7601144509921303,
+            "PC3": -0.7046695990983559,
+            "PC4": -0.06501846274620354,
+            "PC5": 0.056590154109946396
+        },
+        {
+            "PC1": 10.556791877553907,
+            "PC2": -6.245666772394145,
+            "PC3": -4.5104075575159746,
+            "PC4": 3.2459924902371795,
+            "PC5": 1.6280939283559754
+        },
+        {
+            "PC1": -3.5735367018660744,
+            "PC2": -1.5706129389317773,
+            "PC3": 1.3472592859272357,
+            "PC4": -0.5942998148405999,
+            "PC5": -0.8206596503261412
+        },
+        {
+            "PC1": -3.229802088735658,
+            "PC2": 0.3566959733923048,
+            "PC3": -0.6967789876591848,
+            "PC4": 0.5909779441395011,
+            "PC5": 0.15002909615555002
+        },
+        {
+            "PC1": -6.091202516670354,
+            "PC2": 0.9664251080564134,
+            "PC3": -0.35086087004723876,
+            "PC4": -0.21732453213269998,
+            "PC5": 0.3704442399254224
+        },
+        {
+            "PC1": -4.835719591162201,
+            "PC2": -1.1839965904938694,
+            "PC3": -0.7272248916596694,
+            "PC4": -0.42387115912616863,
+            "PC5": -0.43367419652834543
+        },
+        {
+            "PC1": 2.3585213394587154,
+            "PC2": 0.057846162620436084,
+            "PC3": -0.028448563142469543,
+            "PC4": -0.5064059217996597,
+            "PC5": 0.4252182417371159
+        },
+        {
+            "PC1": -4.218564031176007,
+            "PC2": -1.3724638016876094,
+            "PC3": 0.6225155835166496,
+            "PC4": -0.12679475562678338,
+            "PC5": 0.112963660174886
+        },
+        {
+            "PC1": 10.470498034818098,
+            "PC2": 0.2692345327146903,
+            "PC3": 0.7506545660153369,
+            "PC4": 0.11414302459589615,
+            "PC5": 2.694219031495507
+        },
+        {
+            "PC1": 7.56515301651097,
+            "PC2": -1.7468401907446833,
+            "PC3": -2.0845077563074166,
+            "PC4": -1.1551848226268497,
+            "PC5": 1.358928690485505
+        }
+    ],
+    "Explained_Variance": {
+        "PC1": 0.3855893418710562,
+        "PC2": 0.07596809230572854,
+        "PC3": 0.06330491405195153,
+        "PC4": 0.04250470972066572,
+        "PC5": 0.039066677658171976
+    },
+    "Loadings": {
+        "PC1": {
+            "Birth Year": 0.001196367860515076,
+            "How satisfied were you with the clarity of the application instructions? ": -0.09165537485184735,
+            "How smooth was the registration process?": -0.07662153041120479,
+            "How helpful was the initial contact with the academy\u2019s staff? ": -0.08669622605152183,
+            "Were the payment options and processes clear and convenient?": -0.0888741951234025,
+            "Were you satisfied with the price of the Academy?": -0.08918736600491808,
+            "How relevant was the General Academic Lectures to your coaching needs?": -0.11671151195493647,
+            "How useful did you find the Basketball Academic Lectures?": -0.11796947215527075,
+            "How beneficial were the new modules introduced this year (Scouting, S&C, Officiating, Medical)?": -0.08062929904337969,
+            "How effective was the EHCB Members' Online Lectures? ": -0.08010009159848988,
+            "How effective was the EHCB Coaches Congress in providing valuable learning experiences?": -0.06914785885936175,
+            "How effective were the lessons on Offensive Team Tactic?": -0.1554744067920927,
+            "Did the exam adequately assess your knowledge in Offensive Team Tactic?": -0.17423568872381584,
+            "How effective were the lessons on Defensive Team Tactic? ": -0.1585536956242744,
+            "Did the exam adequately assess your knowledge in Defensive Team Tactic?": -0.16683032708442352,
+            "How effective were the lessons on Individual and Group Tactics? ": -0.16019747098701256,
+            "Did the exam adequately assess your knowledge in Individual and Group Tactics?": -0.17063022008292178,
+            "How effective were the lessons on Basketball Technique? ": -0.15054791451749558,
+            "Did the exam adequately assess your knowledge in Basketball Technique?": -0.16577179149077081,
+            "How effective were the lessons on Planning & Programming and S&C?": -0.14938568154728854,
+            "Did the exam adequately assess your knowledge in Planning & Programming and S&C?": -0.16905069720664528,
+            "How effective were the lessons on Selection and Training of Young Players?": -0.15925759553882432,
+            "Did the exam adequately assess your knowledge in Selection and Training of Young Players?": -0.1706162403864278,
+            "How effective were the lessons on Basketball History and Factors? ": -0.14556467032352544,
+            "Did the exam adequately assess your knowledge in Basketball History and Factors? ": -0.16199802323965282,
+            "How effective were the lessons on Theory of Sports Training and S&C? ": -0.15510956267156642,
+            "Did the exam adequately assess your knowledge in Theory of Sports Training and S&C? ": -0.1634151684571702,
+            "How effective were the lessons on Sociology & Psychology?": -0.14687870102738484,
+            "Did the exam adequately assess your knowledge in Sociology & Psychology?": -0.16766885303006268,
+            "How effective were the lessons on Human Motoric? ": -0.13472682163004326,
+            "Did the exam adequately assess your knowledge in Human Motoric? ": -0.15107253373329987,
+            "How effective were the lessons on Biomedicine Subjects?": -0.14933178825953836,
+            "Did the exam adequately assess your knowledge in Biomedicine Subjects?": -0.16230071609445665,
+            "How satisfied were you about the collaboration with University of Belgrade?": -0.1464252554699299,
+            "How satisfied were you with the professors of the University of Belgrade?": -0.13739550825975094,
+            "How satisfied were you with the exams in general?": -0.1452491110862367,
+            "Were you able to attend most of the lessons as per your personal schedule?": -0.06982345907990936,
+            "How satisfied were you with the general attendance of your peers in the lessons? ": -0.09041238115256116,
+            "How would you rate the overall scheduling of the lessons?": -0.1251263822317671,
+            "How valuable did you find the Bonus Lectures?": -0.09018443057735763,
+            "Were the topics covered in the Bonus Lectures relevant to your coaching needs / expectations? ": -0.07473690152876172,
+            "How user-friendly was Zoom?": -0.10334442841178658,
+            "How user-friendly was MS Teams?": -0.08173188080146034,
+            "How effective were the communication channels (WhatsApp, email, etc.)?": -0.10994212296586871,
+            "Were the lesson schedules and reminders adequately managed?": -0.12369058191955551,
+            "How accessible were the recorded lectures and materials? ": -0.11301883891715324,
+            "Please rate the overall technical support provided during the courses.": -0.13516193870569315,
+            "Please rate the support provided for operational aspects of the academy": -0.131875037972525,
+            "How well-organized was the practice week with EuroLeague teams?": -0.09796873058832924,
+            "How beneficial was the practice week for your coaching development?": -0.05077212929215628,
+            "How satisfactory was your interaction with the coaches of the practice week team? ": -0.058999462963300144,
+            "How effective were the practice week presentations?": -0.07920287643510836,
+            "How would you rate the out-of-court experiences in the city of the practice week?": -0.08203837167425816,
+            "Please rate the support provided for operational aspects of the practice week (travel,  accommodation, guidance etc.)": -0.10408344827540973,
+            "How effective were the panels and masterclasses at the Congress?": -0.09790645152183272,
+            "How valuable was the networking opportunity provided at the Congress?": -0.1173828344716236,
+            "Did you find the certification ceremony satisfactory? ": -0.11486108552352224,
+            "How satisfactory were the facilities at the Congress? ": -0.1194118651347325,
+            "How well-structured was the Congress?": -0.11113220472300547,
+            "How satisfied were you with the interactions and networking with other students?": -0.11242283571853579,
+            "To what extent has the academy helped you become a better coach?": -0.11034121596988795,
+            "How much knowledge did you gain from the EHCB Coaches Academy's  modules?": -0.10291862985737595,
+            "Did the academy meet your expectations for professional networking? ": -0.11598935399760081,
+            "How likely are you to recommend the EHCB Coaches Academy to other coaches? ": -0.11528481659372725
+        },
+        "PC2": {
+            "Birth Year": -0.03325081406237691,
+            "How satisfied were you with the clarity of the application instructions? ": 0.012722416994931096,
+            "How smooth was the registration process?": 0.0595422679980917,
+            "How helpful was the initial contact with the academy\u2019s staff? ": -0.049304494997385206,
+            "Were the payment options and processes clear and convenient?": -0.030374054294633857,
+            "Were you satisfied with the price of the Academy?": -0.023378991051903997,
+            "How relevant was the General Academic Lectures to your coaching needs?": -0.09858808878275147,
+            "How useful did you find the Basketball Academic Lectures?": -0.18198851597419036,
+            "How beneficial were the new modules introduced this year (Scouting, S&C, Officiating, Medical)?": -0.030719277866585754,
+            "How effective was the EHCB Members' Online Lectures? ": -0.0019045446701427262,
+            "How effective was the EHCB Coaches Congress in providing valuable learning experiences?": 0.046452005287928436,
+            "How effective were the lessons on Offensive Team Tactic?": -0.1254616198531477,
+            "Did the exam adequately assess your knowledge in Offensive Team Tactic?": -0.05143437320913912,
+            "How effective were the lessons on Defensive Team Tactic? ": -0.10592307226605663,
+            "Did the exam adequately assess your knowledge in Defensive Team Tactic?": -0.07158250286656041,
+            "How effective were the lessons on Individual and Group Tactics? ": -0.10416093574128137,
+            "Did the exam adequately assess your knowledge in Individual and Group Tactics?": -0.07888254279686847,
+            "How effective were the lessons on Basketball Technique? ": -0.08652591142328121,
+            "Did the exam adequately assess your knowledge in Basketball Technique?": -0.11949703454552069,
+            "How effective were the lessons on Planning & Programming and S&C?": -0.08735380470490092,
+            "Did the exam adequately assess your knowledge in Planning & Programming and S&C?": -0.10125614323843807,
+            "How effective were the lessons on Selection and Training of Young Players?": -0.0794658758642504,
+            "Did the exam adequately assess your knowledge in Selection and Training of Young Players?": -0.07907704992355459,
+            "How effective were the lessons on Basketball History and Factors? ": -0.07148746064416711,
+            "Did the exam adequately assess your knowledge in Basketball History and Factors? ": -0.06645160958731443,
+            "How effective were the lessons on Theory of Sports Training and S&C? ": -0.122784742455997,
+            "Did the exam adequately assess your knowledge in Theory of Sports Training and S&C? ": -0.13946132177119944,
+            "How effective were the lessons on Sociology & Psychology?": -0.05262515315765178,
+            "Did the exam adequately assess your knowledge in Sociology & Psychology?": -0.05176354418893467,
+            "How effective were the lessons on Human Motoric? ": -0.12245199608924635,
+            "Did the exam adequately assess your knowledge in Human Motoric? ": -0.09416843161634479,
+            "How effective were the lessons on Biomedicine Subjects?": -0.10543363921435873,
+            "Did the exam adequately assess your knowledge in Biomedicine Subjects?": -0.09025004117617502,
+            "How satisfied were you about the collaboration with University of Belgrade?": -0.11695094278261553,
+            "How satisfied were you with the professors of the University of Belgrade?": -0.11269376594461814,
+            "How satisfied were you with the exams in general?": -0.006597130776099458,
+            "Were you able to attend most of the lessons as per your personal schedule?": 0.10558626807135801,
+            "How satisfied were you with the general attendance of your peers in the lessons? ": 0.04944035311712395,
+            "How would you rate the overall scheduling of the lessons?": 0.13649210110965515,
+            "How valuable did you find the Bonus Lectures?": 0.04547058200640977,
+            "Were the topics covered in the Bonus Lectures relevant to your coaching needs / expectations? ": 0.10935625260561446,
+            "How user-friendly was Zoom?": 0.14404251159968404,
+            "How user-friendly was MS Teams?": 0.0507931351843909,
+            "How effective were the communication channels (WhatsApp, email, etc.)?": 0.14432880285436983,
+            "Were the lesson schedules and reminders adequately managed?": 0.1045650136697516,
+            "How accessible were the recorded lectures and materials? ": 0.1509813306490947,
+            "Please rate the overall technical support provided during the courses.": 0.13963722173585652,
+            "Please rate the support provided for operational aspects of the academy": 0.10448582142752437,
+            "How well-organized was the practice week with EuroLeague teams?": 0.2429312116108187,
+            "How beneficial was the practice week for your coaching development?": 0.2623411880688815,
+            "How satisfactory was your interaction with the coaches of the practice week team? ": 0.27951304165560437,
+            "How effective were the practice week presentations?": 0.20148629394973241,
+            "How would you rate the out-of-court experiences in the city of the practice week?": 0.22935635540902277,
+            "Please rate the support provided for operational aspects of the practice week (travel,  accommodation, guidance etc.)": 0.21745712744349233,
+            "How effective were the panels and masterclasses at the Congress?": 0.20744549811144458,
+            "How valuable was the networking opportunity provided at the Congress?": 0.18376644487071225,
+            "Did you find the certification ceremony satisfactory? ": 0.1520637297059702,
+            "How satisfactory were the facilities at the Congress? ": 0.19802211894074281,
+            "How well-structured was the Congress?": 0.22315474297673757,
+            "How satisfied were you with the interactions and networking with other students?": 0.16252578699615097,
+            "To what extent has the academy helped you become a better coach?": -0.0014552362488617762,
+            "How much knowledge did you gain from the EHCB Coaches Academy's  modules?": -0.011919864421157672,
+            "Did the academy meet your expectations for professional networking? ": 0.06764540123963214,
+            "How likely are you to recommend the EHCB Coaches Academy to other coaches? ": 0.034601522676403394
+        },
+        "PC3": {
+            "Birth Year": -0.06862585699530646,
+            "How satisfied were you with the clarity of the application instructions? ": -0.2025839859847801,
+            "How smooth was the registration process?": -0.2986688205954295,
+            "How helpful was the initial contact with the academy\u2019s staff? ": -0.22032161431963576,
+            "Were the payment options and processes clear and convenient?": -0.19632137011036646,
+            "Were you satisfied with the price of the Academy?": -0.19128249142131903,
+            "How relevant was the General Academic Lectures to your coaching needs?": -0.1728670825374682,
+            "How useful did you find the Basketball Academic Lectures?": -0.16071078829543553,
+            "How beneficial were the new modules introduced this year (Scouting, S&C, Officiating, Medical)?": -0.2639279225752823,
+            "How effective was the EHCB Members' Online Lectures? ": -0.20766174625353104,
+            "How effective was the EHCB Coaches Congress in providing valuable learning experiences?": -0.2976925658280337,
+            "How effective were the lessons on Offensive Team Tactic?": -0.022492998213855427,
+            "Did the exam adequately assess your knowledge in Offensive Team Tactic?": 0.08024256505161813,
+            "How effective were the lessons on Defensive Team Tactic? ": -0.019711142151987094,
+            "Did the exam adequately assess your knowledge in Defensive Team Tactic?": 0.10276617121483125,
+            "How effective were the lessons on Individual and Group Tactics? ": 0.018945129481870063,
+            "Did the exam adequately assess your knowledge in Individual and Group Tactics?": 0.07637386565871929,
+            "How effective were the lessons on Basketball Technique? ": -0.027549827264855078,
+            "Did the exam adequately assess your knowledge in Basketball Technique?": 0.0894263493932822,
+            "How effective were the lessons on Planning & Programming and S&C?": 0.04881855983473965,
+            "Did the exam adequately assess your knowledge in Planning & Programming and S&C?": 0.13657636799386122,
+            "How effective were the lessons on Selection and Training of Young Players?": 0.01990638790251027,
+            "Did the exam adequately assess your knowledge in Selection and Training of Young Players?": 0.11717456897550663,
+            "How effective were the lessons on Basketball History and Factors? ": 0.09414808034016954,
+            "Did the exam adequately assess your knowledge in Basketball History and Factors? ": 0.13699233853017145,
+            "How effective were the lessons on Theory of Sports Training and S&C? ": 0.07243153527909342,
+            "Did the exam adequately assess your knowledge in Theory of Sports Training and S&C? ": 0.1352548847262334,
+            "How effective were the lessons on Sociology & Psychology?": 0.07896355103067622,
+            "Did the exam adequately assess your knowledge in Sociology & Psychology?": 0.1323984352715085,
+            "How effective were the lessons on Human Motoric? ": 0.038327120955574064,
+            "Did the exam adequately assess your knowledge in Human Motoric? ": 0.09128336456002585,
+            "How effective were the lessons on Biomedicine Subjects?": 0.01865975085393288,
+            "Did the exam adequately assess your knowledge in Biomedicine Subjects?": 0.09782085517602494,
+            "How satisfied were you about the collaboration with University of Belgrade?": 0.004664485706795938,
+            "How satisfied were you with the professors of the University of Belgrade?": 0.009807359230143219,
+            "How satisfied were you with the exams in general?": 0.06164973016669122,
+            "Were you able to attend most of the lessons as per your personal schedule?": -0.09897971836806153,
+            "How satisfied were you with the general attendance of your peers in the lessons? ": -0.012903457046400531,
+            "How would you rate the overall scheduling of the lessons?": -0.06619104498809122,
+            "How valuable did you find the Bonus Lectures?": 0.07760384456803165,
+            "Were the topics covered in the Bonus Lectures relevant to your coaching needs / expectations? ": 0.042368050274073074,
+            "How user-friendly was Zoom?": -0.018541472518213583,
+            "How user-friendly was MS Teams?": -0.05527442522572155,
+            "How effective were the communication channels (WhatsApp, email, etc.)?": -0.16566649223390068,
+            "Were the lesson schedules and reminders adequately managed?": -0.1241274547287824,
+            "How accessible were the recorded lectures and materials? ": -0.056807915483767256,
+            "Please rate the overall technical support provided during the courses.": -0.06671810144156909,
+            "Please rate the support provided for operational aspects of the academy": -0.13154213997179015,
+            "How well-organized was the practice week with EuroLeague teams?": 0.17310331665866907,
+            "How beneficial was the practice week for your coaching development?": 0.19096174725460988,
+            "How satisfactory was your interaction with the coaches of the practice week team? ": 0.17479785400474243,
+            "How effective were the practice week presentations?": 0.20263405176731764,
+            "How would you rate the out-of-court experiences in the city of the practice week?": 0.177300823843934,
+            "Please rate the support provided for operational aspects of the practice week (travel,  accommodation, guidance etc.)": 0.09681700571298628,
+            "How effective were the panels and masterclasses at the Congress?": 0.006563859158576584,
+            "How valuable was the networking opportunity provided at the Congress?": -0.005141984970409841,
+            "Did you find the certification ceremony satisfactory? ": -0.024578434262918575,
+            "How satisfactory were the facilities at the Congress? ": -0.09588413963025737,
+            "How well-structured was the Congress?": -0.12330676192273371,
+            "How satisfied were you with the interactions and networking with other students?": -0.07720015477326982,
+            "To what extent has the academy helped you become a better coach?": -0.061377686851028714,
+            "How much knowledge did you gain from the EHCB Coaches Academy's  modules?": -0.034721611583465775,
+            "Did the academy meet your expectations for professional networking? ": -0.08198413764279884,
+            "How likely are you to recommend the EHCB Coaches Academy to other coaches? ": -0.0520246513080545
+        },
+        "PC4": {
+            "Birth Year": -0.04256474902206589,
+            "How satisfied were you with the clarity of the application instructions? ": -0.16236116316217053,
+            "How smooth was the registration process?": -0.10842828009255132,
+            "How helpful was the initial contact with the academy\u2019s staff? ": -0.17810471026266106,
+            "Were the payment options and processes clear and convenient?": -0.26692475052576925,
+            "Were you satisfied with the price of the Academy?": -0.2587914735597916,
+            "How relevant was the General Academic Lectures to your coaching needs?": -0.05385166318311557,
+            "How useful did you find the Basketball Academic Lectures?": -0.03863414723931957,
+            "How beneficial were the new modules introduced this year (Scouting, S&C, Officiating, Medical)?": -0.09088381072713114,
+            "How effective was the EHCB Members' Online Lectures? ": -0.042950920184492314,
+            "How effective was the EHCB Coaches Congress in providing valuable learning experiences?": -0.037137107430244065,
+            "How effective were the lessons on Offensive Team Tactic?": 0.17684791650764975,
+            "Did the exam adequately assess your knowledge in Offensive Team Tactic?": -0.13088974711398188,
+            "How effective were the lessons on Defensive Team Tactic? ": 0.12852056147943647,
+            "Did the exam adequately assess your knowledge in Defensive Team Tactic?": -0.1324057138824031,
+            "How effective were the lessons on Individual and Group Tactics? ": 0.13034553814469885,
+            "Did the exam adequately assess your knowledge in Individual and Group Tactics?": -0.1574788852712982,
+            "How effective were the lessons on Basketball Technique? ": 0.15203594671929466,
+            "Did the exam adequately assess your knowledge in Basketball Technique?": -0.14315288341539106,
+            "How effective were the lessons on Planning & Programming and S&C?": 0.06534292279434965,
+            "Did the exam adequately assess your knowledge in Planning & Programming and S&C?": -0.09808050865172584,
+            "How effective were the lessons on Selection and Training of Young Players?": 0.1527283981415599,
+            "Did the exam adequately assess your knowledge in Selection and Training of Young Players?": -0.09713129673204939,
+            "How effective were the lessons on Basketball History and Factors? ": 0.09256855869459624,
+            "Did the exam adequately assess your knowledge in Basketball History and Factors? ": -0.1068788534079149,
+            "How effective were the lessons on Theory of Sports Training and S&C? ": 0.12676726291805723,
+            "Did the exam adequately assess your knowledge in Theory of Sports Training and S&C? ": -0.05857504943919928,
+            "How effective were the lessons on Sociology & Psychology?": 0.08874780938289044,
+            "Did the exam adequately assess your knowledge in Sociology & Psychology?": -0.07851926278099738,
+            "How effective were the lessons on Human Motoric? ": 0.18435462694470095,
+            "Did the exam adequately assess your knowledge in Human Motoric? ": -0.057128223756507314,
+            "How effective were the lessons on Biomedicine Subjects?": 0.03158590269083341,
+            "Did the exam adequately assess your knowledge in Biomedicine Subjects?": -0.14142232074756414,
+            "How satisfied were you about the collaboration with University of Belgrade?": 0.06447634439089837,
+            "How satisfied were you with the professors of the University of Belgrade?": 0.06081011939760216,
+            "How satisfied were you with the exams in general?": -0.1350610927031274,
+            "Were you able to attend most of the lessons as per your personal schedule?": 0.006347197940988815,
+            "How satisfied were you with the general attendance of your peers in the lessons? ": 0.13572191550233983,
+            "How would you rate the overall scheduling of the lessons?": -0.0253466384780618,
+            "How valuable did you find the Bonus Lectures?": 0.019403351753665823,
+            "Were the topics covered in the Bonus Lectures relevant to your coaching needs / expectations? ": -0.04535277100006881,
+            "How user-friendly was Zoom?": -0.03524333337972449,
+            "How user-friendly was MS Teams?": 0.02937382941813832,
+            "How effective were the communication channels (WhatsApp, email, etc.)?": -0.12447602332418606,
+            "Were the lesson schedules and reminders adequately managed?": -0.003847621575475726,
+            "How accessible were the recorded lectures and materials? ": -0.05229968802112713,
+            "Please rate the overall technical support provided during the courses.": -0.027173885196283696,
+            "Please rate the support provided for operational aspects of the academy": -0.0031712271111255805,
+            "How well-organized was the practice week with EuroLeague teams?": -0.05631700409993125,
+            "How beneficial was the practice week for your coaching development?": -0.1251622596831081,
+            "How satisfactory was your interaction with the coaches of the practice week team? ": -0.1453022977326066,
+            "How effective were the practice week presentations?": -0.17194949453130784,
+            "How would you rate the out-of-court experiences in the city of the practice week?": -0.08470481114011041,
+            "Please rate the support provided for operational aspects of the practice week (travel,  accommodation, guidance etc.)": -0.04995577161556232,
+            "How effective were the panels and masterclasses at the Congress?": 0.15669721588793173,
+            "How valuable was the networking opportunity provided at the Congress?": 0.22721318733993806,
+            "Did you find the certification ceremony satisfactory? ": 0.23068791554042886,
+            "How satisfactory were the facilities at the Congress? ": 0.1337187487011674,
+            "How well-structured was the Congress?": 0.14285014455350922,
+            "How satisfied were you with the interactions and networking with other students?": 0.20634874848743914,
+            "To what extent has the academy helped you become a better coach?": 0.19333896153885352,
+            "How much knowledge did you gain from the EHCB Coaches Academy's  modules?": 0.21734492539459094,
+            "Did the academy meet your expectations for professional networking? ": 0.07064684893565452,
+            "How likely are you to recommend the EHCB Coaches Academy to other coaches? ": -0.01318376542558912
+        },
+        "PC5": {
+            "Birth Year": 0.008102410547571787,
+            "How satisfied were you with the clarity of the application instructions? ": 0.146392004721431,
+            "How smooth was the registration process?": 0.138249544354961,
+            "How helpful was the initial contact with the academy\u2019s staff? ": 0.15735252376645964,
+            "Were the payment options and processes clear and convenient?": 0.12385518071252993,
+            "Were you satisfied with the price of the Academy?": 0.11850184973394476,
+            "How relevant was the General Academic Lectures to your coaching needs?": -0.023009488652687295,
+            "How useful did you find the Basketball Academic Lectures?": 0.07619700593750225,
+            "How beneficial were the new modules introduced this year (Scouting, S&C, Officiating, Medical)?": 0.14347100989840572,
+            "How effective was the EHCB Members' Online Lectures? ": 0.16496715890207247,
+            "How effective was the EHCB Coaches Congress in providing valuable learning experiences?": 0.1768857547192103,
+            "How effective were the lessons on Offensive Team Tactic?": 0.028434519019179594,
+            "Did the exam adequately assess your knowledge in Offensive Team Tactic?": -0.008110847322216674,
+            "How effective were the lessons on Defensive Team Tactic? ": -0.005591380123668999,
+            "Did the exam adequately assess your knowledge in Defensive Team Tactic?": -0.010539431404931854,
+            "How effective were the lessons on Individual and Group Tactics? ": 0.04813002154730192,
+            "Did the exam adequately assess your knowledge in Individual and Group Tactics?": 0.014863600836101509,
+            "How effective were the lessons on Basketball Technique? ": 0.038649237732673314,
+            "Did the exam adequately assess your knowledge in Basketball Technique?": -0.0008824986847927821,
+            "How effective were the lessons on Planning & Programming and S&C?": 0.01739606682089041,
+            "Did the exam adequately assess your knowledge in Planning & Programming and S&C?": -0.004346042146638326,
+            "How effective were the lessons on Selection and Training of Young Players?": 0.04156107763573155,
+            "Did the exam adequately assess your knowledge in Selection and Training of Young Players?": 0.01690666149480054,
+            "How effective were the lessons on Basketball History and Factors? ": 0.06540522703110274,
+            "Did the exam adequately assess your knowledge in Basketball History and Factors? ": 0.012178473220242535,
+            "How effective were the lessons on Theory of Sports Training and S&C? ": 0.10606887419358345,
+            "Did the exam adequately assess your knowledge in Theory of Sports Training and S&C? ": -0.012329377907726233,
+            "How effective were the lessons on Sociology & Psychology?": 0.1491027300336541,
+            "Did the exam adequately assess your knowledge in Sociology & Psychology?": 0.01254576222160693,
+            "How effective were the lessons on Human Motoric? ": -0.09329743799866977,
+            "Did the exam adequately assess your knowledge in Human Motoric? ": -0.16801704644763582,
+            "How effective were the lessons on Biomedicine Subjects?": 0.006944168992695666,
+            "Did the exam adequately assess your knowledge in Biomedicine Subjects?": -0.09144838487865271,
+            "How satisfied were you about the collaboration with University of Belgrade?": 0.0030332233829228313,
+            "How satisfied were you with the professors of the University of Belgrade?": 0.06803696330671094,
+            "How satisfied were you with the exams in general?": -0.12302569466232867,
+            "Were you able to attend most of the lessons as per your personal schedule?": -0.09097756248657413,
+            "How satisfied were you with the general attendance of your peers in the lessons? ": 0.00033571740697665694,
+            "How would you rate the overall scheduling of the lessons?": -0.09127877858746888,
+            "How valuable did you find the Bonus Lectures?": -0.12095257067496451,
+            "Were the topics covered in the Bonus Lectures relevant to your coaching needs / expectations? ": -0.1905007229895074,
+            "How user-friendly was Zoom?": -0.1681436561387761,
+            "How user-friendly was MS Teams?": -0.2828514297795171,
+            "How effective were the communication channels (WhatsApp, email, etc.)?": -0.2537465180860709,
+            "Were the lesson schedules and reminders adequately managed?": -0.23921267113771585,
+            "How accessible were the recorded lectures and materials? ": -0.25812473821712956,
+            "Please rate the overall technical support provided during the courses.": -0.26001935330403597,
+            "Please rate the support provided for operational aspects of the academy": -0.25097943003712425,
+            "How well-organized was the practice week with EuroLeague teams?": 0.06487689249186468,
+            "How beneficial was the practice week for your coaching development?": 0.18722393021148798,
+            "How satisfactory was your interaction with the coaches of the practice week team? ": 0.17237701219997317,
+            "How effective were the practice week presentations?": 0.16589536996997484,
+            "How would you rate the out-of-court experiences in the city of the practice week?": 0.17211091320405855,
+            "Please rate the support provided for operational aspects of the practice week (travel,  accommodation, guidance etc.)": 0.0750317095644446,
+            "How effective were the panels and masterclasses at the Congress?": 0.169936405876901,
+            "How valuable was the networking opportunity provided at the Congress?": 0.1388248920122342,
+            "Did you find the certification ceremony satisfactory? ": 0.020628568845199587,
+            "How satisfactory were the facilities at the Congress? ": 0.008844219632473251,
+            "How well-structured was the Congress?": -0.019375733839163762,
+            "How satisfied were you with the interactions and networking with other students?": 0.11325428070980467,
+            "To what extent has the academy helped you become a better coach?": 0.028531053081215025,
+            "How much knowledge did you gain from the EHCB Coaches Academy's  modules?": 0.13475058238741822,
+            "Did the academy meet your expectations for professional networking? ": -0.027205175230032456,
+            "How likely are you to recommend the EHCB Coaches Academy to other coaches? ": -0.03382181227192341
+        }
+    }
+}
