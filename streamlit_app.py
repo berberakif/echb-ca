@@ -6,9 +6,9 @@ from analysis.pca_analysis import pca_analysis
 from analysis.satisfaction_analysis import satisfaction_analysis
 from analysis.comparative_analysis import comparative_analysis
 
-# Define your username and password
-USERNAME = "bche"
-PASSWORD = "good2Change"
+# Retrieve the username and password from Streamlit secrets
+USERNAME = st.secrets["STREAMLIT_USERNAME"]
+PASSWORD = st.secrets["STREAMLIT_PASSWORD"]
 
 # Create a login form
 st.title("EHCB CA - Feedback Report")
@@ -49,4 +49,4 @@ else:
     # Add a logout button
     if st.sidebar.button("Logout"):
         st.session_state["logged_in"] = False
-        st.sidebar.empty()
+        st.experimental_rerun()
