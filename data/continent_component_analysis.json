@@ -1,0 +1,37 @@
+{
+    "Application Process": {
+        "Asia": 5.0,
+        "Europe - EuroLeague": 4.222222222222222,
+        "Europe - Non-EuroLeague": 4.25,
+        "North America": 3.9375,
+        "South America": 4.0
+    },
+    "Academy Content": {
+        "Asia": 4.6,
+        "Europe - EuroLeague": 4.133333333333334,
+        "Europe - Non-EuroLeague": 4.6,
+        "North America": 3.7,
+        "South America": 4.0
+    },
+    "Exams": {
+        "Asia": 5.0,
+        "Europe - EuroLeague": 3.548717948717949,
+        "Europe - Non-EuroLeague": 3.1818181818181817,
+        "North America": 4.0227272727272725,
+        "South America": 4.136363636363637
+    },
+    "General Satisfaction": {
+        "Asia": 4.666666666666667,
+        "Europe - EuroLeague": 4.185185185185185,
+        "Europe - Non-EuroLeague": 5.0,
+        "North America": 4.416666666666667,
+        "South America": 4.0
+    },
+    "Technical and Operational Support": {
+        "Asia": 4.8,
+        "Europe - EuroLeague": 4.091666666666667,
+        "Europe - Non-EuroLeague": 4.25,
+        "North America": 4.125,
+        "South America": 4.25
+    }
+}

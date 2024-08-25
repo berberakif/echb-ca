@@ -2,14 +2,16 @@ import streamlit as st
 from analysis.demographics import demographics
 from analysis.summary import summary
 from analysis.recommendations import recommendations
-from analysis.pca_analysis import pca_analysis 
+from analysis.pca_analysis import pca_analysis
 from analysis.satisfaction_analysis import satisfaction_analysis
 from analysis.comparative_analysis import comparative_analysis
 from analysis.open_ended_viewer import open_ended_viewer
 
-# Retrieve the username and password from Streamlit secrets
+# Retrieve the username and passwords from Streamlit secrets
 USERNAME = st.secrets["STREAMLIT_USERNAME"]
 PASSWORD = st.secrets["STREAMLIT_PASSWORD"]
+GUEST_USERNAME = st.secrets["STREAMLIT_GUEST_USERNAME"]
+GUEST_PASSWORD = st.secrets["STREAMLIT_GUEST_PASSWORD"]
 
 # Create a login form
 st.title("EHCB CA - Feedback Report")
@@ -25,29 +27,73 @@ if not st.session_state["logged_in"]:
 
     if login_button and username == USERNAME and password == PASSWORD:
         st.session_state["logged_in"] = True
+        st.session_state["is_guest"] = False
         st.sidebar.success("Logged in successfully")
+        st.experimental_rerun()
+    elif login_button and username == GUEST_USERNAME and password == GUEST_PASSWORD:
+        st.session_state["logged_in"] = True
+        st.session_state["is_guest"] = True
+        st.sidebar.success("Logged in as Guest")
+        st.experimental_rerun()
     elif login_button:
         st.sidebar.error("Invalid username or password")
 else:
-    # If logged in, display the rest of the app
-    st.sidebar.header("Navigate")
-    section = st.sidebar.radio("Go to", ["Summary", "Demographics", "PCA Analysis", "Satisfaction Details", "Comparative Analysis", "Recommendations", "Feedback Viewer"])
+    # Add a toggle switch for one-page view vs. sectioned view
+    st.sidebar.header("Display Options")
+    one_page_view = st.sidebar.checkbox(
+        "Show all sections on one page", value=False)
 
-    # Display the selected section with filtering
-    if section == "Summary":
+    if one_page_view:
+        # Show all sections on one page
+        st.header("Summary")
         summary()
-    elif section == "Demographics":
+
+        st.header("Demographics")
         demographics()
-    elif section == "PCA Analysis":
-        pca_analysis() 
-    elif section == "Satisfaction Details":
+
+        st.header("PCA Analysis")
+        pca_analysis()
+
+        st.header("Satisfaction Details")
         satisfaction_analysis()
-    elif section == "Comparative Analysis":
-        comparative_analysis()
-    elif section == "Recommendations":
-        recommendations()
-    elif section == "Feedback Viewer":
-        open_ended_viewer() 
+
+        # st.header("Comparative Analysis")
+        # comparative_analysis()
+
+        # st.header("Recommendations")
+        # recommendations()
+
+        st.header("Feedback Viewer")
+        open_ended_viewer()
+
+    else:
+        # Sectioned view
+        st.sidebar.header("Navigate")
+        section = st.sidebar.radio("Go to", ["Summary", "Demographics", "PCA Analysis",
+                                             "Satisfaction Details", "Feedback Viewer"])
+
+        # Display the selected section
+        if section == "Summary":
+            st.header("Summary")
+            summary()
+        elif section == "Demographics":
+            st.header("Demographics")
+            demographics()
+        elif section == "PCA Analysis":
+            st.header("PCA Analysis")
+            pca_analysis()
+        elif section == "Satisfaction Details":
+            st.header("Satisfaction Details")
+            satisfaction_analysis()
+        # elif section == "Comparative Analysis":
+        #     st.header("Comparative Analysis")
+        #     comparative_analysis()
+        # elif section == "Recommendations":
+        #     st.header("Recommendations")
+        #     recommendations()
+        elif section == "Feedback Viewer":
+            st.header("Feedback Viewer")
+            open_ended_viewer()
 
     # Add a logout button
     if st.sidebar.button("Logout"):
