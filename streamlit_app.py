@@ -29,12 +29,10 @@ if not st.session_state["logged_in"]:
         st.session_state["logged_in"] = True
         st.session_state["is_guest"] = False
         st.sidebar.success("Logged in successfully")
-        st.experimental_rerun()
     elif login_button and username == GUEST_USERNAME and password == GUEST_PASSWORD:
         st.session_state["logged_in"] = True
         st.session_state["is_guest"] = True
         st.sidebar.success("Logged in as Guest")
-        st.experimental_rerun()
     elif login_button:
         st.sidebar.error("Invalid username or password")
 else:

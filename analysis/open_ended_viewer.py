@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import os
 
+
 def open_ended_viewer():
     st.header("Open-Ended Feedback Viewer")
 
@@ -24,19 +25,21 @@ def open_ended_viewer():
         "Suggested Price for 5th Gen": "suggested-price.csv",
         "Module/Lesson to Add to the Curriculum": "what-to-add-for-curriculum.csv"
     }
-    
+
     # Select question
-    question = st.selectbox("Select a question", list(questions.keys()))
-    
+    # question = st.selectbox("Select a question", list(questions.keys()))
+
     # Load the selected CSV file
-    if question:
+    for question in questions:
         file_path = os.path.join('data', questions[question])
         if os.path.exists(file_path):
             df = pd.read_csv(file_path)
 
             # Filter out generic responses
-            generic_responses = ['/', 'yes', 'no', '-', 'na', 'none', 'N/A', 'Nothing', 'nothing']
-            df = df[~df.iloc[:, 0].str.strip().str.lower().isin(generic_responses)]
+            generic_responses = ['/', 'yes', 'no', '-',
+                                 'na', 'none', 'N/A', 'Nothing', 'nothing']
+            df = df[~df.iloc[:, 0].str.strip(
+            ).str.lower().isin(generic_responses)]
 
             if not df.empty:
                 st.markdown(f"### Responses for {question}")
